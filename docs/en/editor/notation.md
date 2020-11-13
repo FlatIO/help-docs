@@ -89,6 +89,7 @@ On this page, discover the music notations available on our music notation softw
 | [![Slides](https://prod.flat-cdn.com/img/icons/editorActions/slide.svg){:.tb}](/help/en/music-notation-software/slide.html) | [Slide](/help/en/music-notation-software/slide.html) |
 | [![Plucked ranges](https://prod.flat-cdn.com/img/icons/editorActions/palmMute.svg){:.tb}](/help/en/music-notation-software/plucked-ranges.html) | [Plucked ranges (Palm Mute & Let Ring)](/help/en/music-notation-software/plucked-ranges.html) |
 | [![Chord grids](https://prod.flat-cdn.com/img/icons/editorActions/chord.svg){:.tb}](/help/en/music-notation-software/chord-grids.html) | [Chord grids](/help/en/music-notation-software/chord-grids.html) |
+| [![Hammer on / Pull off](https://prod.flat-cdn.com/img/icons/editorActions/hammerOnPullOff.svg){:.tb}](/help/en/music-notation-software/hammer-on-pull-off.html) | [Hammer on / Pull off](/help/en/music-notation-software/hammer-on-pull-off.html) |
 {:.feat.flist}
 
 ## Articulation

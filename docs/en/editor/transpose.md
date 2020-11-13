@@ -52,6 +52,10 @@ If you don't make a selection before using the transposition tool, the transposi
 
 ![Transpose by Interval, Key or Semi-tones with Flat](/help/assets/img/editor/transposition.png)
 
+## Transpose the whole score to a new key 
+
+You can select all the score **crtl+shitt+A / cmd+shift+A** and then transpose followings the steps above. 
+
 ## Transpose using keyboard shortcuts
 
 You can quickly transpose one note or a selection of notes using keyboard shortcuts:
