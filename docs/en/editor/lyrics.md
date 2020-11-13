@@ -47,6 +47,14 @@ melisma.
 
 ![Lyrics with melisma](/help/assets/img/editor/lyrics-melisma.gif)
 
+### Removing Hyphens & Melismas
+
+To remove an hyphen, you just need to press the space-bar while selecting the lyrics at the left side of the 
+hyphen. 
+To remove a melisma, select the melisma, remove the underscore ("_"), then press the space-bar. 
+
+![Removing hyphens & Melismas](/help/assets/img/editor/remove-hyphen-melisma.gif)
+
 ### Multiple verses
 
 You can move to the different verses with the arrow keys 
