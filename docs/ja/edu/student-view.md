@@ -3,7 +3,7 @@ title: 生徒view
 description: Flat for Educationがあなたの生徒にはどのように表示されるかみてみましょう。
 nav: edu
 pid: student-view
-permalink: en/education/生徒view.html
+permalink: ja/education/生徒view.html
 ---
 
 生徒がFlatに登録されると、すぐにエディタを利用してスコア作成をしたり自身で練習を開始したりすることができます。このページでは生徒がFlat for Educationを利用する際にどのように表示されるかをご紹介します。
@@ -11,8 +11,8 @@ permalink: en/education/生徒view.html
 今回は以下の状況での生徒viewを確認します。
 
 * [1. 教員によってクラスに追加されると](#class-and-student-stream)
-* [2. 課題に取り組む時](#work-on-an-assignment)
-* [3. 課題を提出する時](#turn-in-an-existing-score-for-an-assignment)
+* [2. 課題に取り組む](#work-on-an-assignment)
+* [3. 既存スコアを提出する](#turn-in-an-existing-score-for-an-assignment)
 <br>
 <br>
 
@@ -30,7 +30,8 @@ permalink: en/education/生徒view.html
 教員からのコメントがある場合も、生徒はこのストリーム画面で同時に確認することができます。
 <br>
 
-## 2. 課題に取り組む時
+
+## 2. 課題に取り組む
 
 1で確認したクラスページでは、表示されている課題をクリックするだけで課題の内容を確認することができます。
 
@@ -43,28 +44,30 @@ permalink: en/education/生徒view.html
 
 ![スコア課題](/help/assets/img/edu-ja/class-student-editor-template.png)
 
-生徒は、課題が終わったら画面上部にある「**提出する**」をクリックして課題の提出を行います。
+生徒は、課題が終わったら画面上部にある「**提出する**」をクリックします。
 
 ![課題提出デフォルト](/help/assets/img/edu-ja/class-student-editor-turnin-default.png)
 
-The information will be automatically added; the student can leave a comment about their work for the teacher to read when reviewing.
+課題の確認画面が開かれるので、間違いなければ「**提出する**」をクリックして提出が完了します。
+<br>
 
-## Turn in an existing score for an assignment
 
-Most of the time a student will start an assignment with a new score or a template you shared with them.
-In some cases, they might need to send a score they already have in their account, or an extra score.
-Here is a complete breakdown of how to do it.
+## 3. 既存のスコアを課題として提出する
 
-First, they need to open their Flat account, choose the class then the assignment as shown above.
-Once they arrive on the assignment page, they will see the "**Your work**" section on the right side of the page or below the instructions.
+ほとんどの場合、生徒の課題は新規スコアを作成して課題を開始するか教員が共有したテンプレートを元に課題を開始することが多いと思います。
+もし生徒が自身のMYライブラリにある既存のスコアを課題として提出したい場合は、次の手順で提出することができます。
 
-![Your work](/help/assets/img/edu/class-student-your-work-template-default.png)
+まずは1や2で確認したように、クラスページで提出したい課題を選択します。課題の詳細確認ページを開くと、画面右に「**あなたの作品**」という欄が表示されています。
 
-They can click on "**Add an existing score**" and choose your score from their library.
 
-![Started assignment](/help/assets/img/edu/class-student-your-work-template-started.png)
+![あなたの作品](/help/assets/img/edu-ja/class-student-your-work-template-default.png)
 
-Then click on "**Turn in**" to send their work. That's all! You will receive a notification and will be able to review their work.
+「**既に作成してあるスコアを追加する**」をクリックすると、生徒が自身のMYライブラリから添付したいスコアを選択・添付することができます。
 
-![Turned in assignment](/help/assets/img/edu/class-student-your-work-template-turned-in.png)
+![開始済み課題](/help/assets/img/edu-ja/class-student-your-work-template-started.png)
+
+すぐ下にある「**提出する**」ボタンをクリックすると既存スコアを含めた課題の提出が完了します。
+生徒から課題が提出されると教員に通知され、課題を評価することができます。
+
+![Turned in assignment](/help/assets/img/edu-ja/class-student-your-work-template-turned-in.png)
 
