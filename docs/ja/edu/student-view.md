@@ -13,8 +13,9 @@ permalink: ja/education/生徒view.html
 * [1. 教員によってクラスに追加されると](#class-and-student-stream)
 * [2. 課題に取り組む](#work-on-an-assignment)
 * [3. 既存スコアを提出する](#turn-in-an-existing-score-for-an-assignment)
+
 <br>
-<br>
+
 
 ## 1. 教員によってクラスに追加されると
 
@@ -28,6 +29,7 @@ permalink: ja/education/生徒view.html
 
 クラスページでは、出されている課題や自分の課題への取り組み状況を一目で確認できます。
 教員からのコメントがある場合も、生徒はこのストリーム画面で同時に確認することができます。
+
 <br>
 
 
@@ -49,7 +51,9 @@ permalink: ja/education/生徒view.html
 ![課題提出デフォルト](/help/assets/img/edu-ja/class-student-editor-turnin-default.png)
 
 課題の確認画面が開かれるので、間違いなければ「**提出する**」をクリックして提出が完了します。
+
 <br>
+
 
 
 ## 3. 既存のスコアを課題として提出する

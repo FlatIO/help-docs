@@ -13,6 +13,7 @@ permalink: ja/education/教員を追加する.html
 教員を追加する場合に限らず、参加者のアカウントの管理はこの「**参加者**」ページで行うことができます。
 
 ![参加者ページ](/help/assets/img/edu-ja/people-tab.png)
+
 <br>
 
 
@@ -26,6 +27,7 @@ permalink: ja/education/教員を追加する.html
 「手動で参加者を追加する」のページが開くので、「**教員や管理者をメールで招待する**」をクリックします。
 
 ![教員や管理者の招待](/help/assets/img/edu-ja/people-invite-admin-teachers.png)
+
 <br>
 
 
