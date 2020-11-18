@@ -1,0 +1,158 @@
+---
+title: ディクテーション
+description: Flat for Educationの機能を使って、耳のトレーニングになるディクテーション課題を作成してみましょう。
+nav: edu
+pid: dictation
+permalink: ja/education/ディクテーション.html
+---
+
+ディクテーションつまり聞き取り練習は、耳のトレーニングに欠かせない要素です。練習を重ねることで、生徒の音やリズムに対する認識能力を高めることにつながります。
+このページでは、[Flat for Education](https://flat.io/edu)で簡単に作成できるディクテーション課題について紹介します。
+
+このページで利用する機能は以下の通りです：
+
+- [スコア編集エディタ](/help/ja/music-notation-software/)
+- [MP3ファイルをFlatにアップロードしてスコアと同期する](/help/en/music-notation-software/synchronize-external-recording.html)
+- [テンプレート課題とテンプレートロック](help/ja/education/テンプレート機能.html)
+- 再生回数制限
+- [カスタムツールセット](/help/ja/education/ツールセットの設定.html)
+<br>
+
+
+Flatでディクテーションを作成するには2つの方法があります。
+
+- **音声ファイル(MP3)や動画を利用する方法**
+既に音声ファイル(MP3)がある場合、動画サイトなどの動画の音声を利用する場合です。詳しい手順はこのページ下の[メロディー聞き取り](#melodic-dictation-example)の例をご覧ください。
+- **Flatのエクスポート機能を利用してスコアから音声ファイルをエクスポートする方法**
+Flatでスコアを作成するか既存の楽譜をインポートし、そのスコアを元に音声ファイルを作成します。テンプレートとして使用するスコアと音声ファイルをリンクさせて課題に利用します。詳しい手順はこのページ下の[リズム聞き取り](#rhythmic-dictation-example)の例をご覧ください。
+<br>
+<br>
+<br>
+
+
+## メロディー聞き取りの例
+
+### 1. テンプレートを作成する
+
+こちらの例は、生徒が曲（J.S.バッハ／ 無伴奏チェロ組曲 第1番 プレリュード）を聞いて最後の5小節を完成させるアクティビティです。
+ここでは**既存の音声ファイル（MP3ファイルやYouTubeなど）を利用する**と仮定して、アクティビティの作成手順を確認していきましょう。
+
+まずは[新規スコアの作成](/help/en/music-notation-software/create-your-first-music-score.html)から始めましょう。
+楽器はチェロを選択し、完成させる5小節の始めだけ音符を入力します。
+次に**小節**ツールバーから[空の小節を挿入](/help/en/music-notation-software/addmeasure.html)します。小節が挿入できたら、**テキスト**ツールバーの[アノテーション機能](/help/en/music-notation-software/annotation.html)を利用してスコア上に指示コメントを入力します。
+この時点で以下のようなスコアになっています。 
+
+![テンプレートスコアの例](/help/assets/img/edu-ja/dictation-score-bach.png)
+<br>
+
+
+### 2. 音声を追加する
+
+スコアの準備ができたら次は音声を追加しましょう。
+**再生ボタン**のすぐ右にある下向きの矢印をクリックして、「**録音管理**」を選択します。
+
+![再生 > 録音管理](/help/assets/img/editor-ja/recording-ddn-add.png)
+
+追加したい**動画のリンクを入力**するか、**MP3ファイルをアップロード**します。
+
+![リンクを入力する](/help/assets/img/editor-ja/recording-link-add.png)
+
+リンクの入力またはファイルのアップロードができたら「**次へ**」をクリックします。
+音声の開始・終了を調整する画面に移るので、スコアに合わせて開始時間と終了時間を設定してください。他の同期ポイントを追加することも出来るので詳しくは[こちらのページ](/help/en/music-notation-software/synchronize-external-recording.html)でご確認ください。
+
+![音声の開始・終了時間の調整](/help/assets/img/edu-ja/dictation-score-bach-sync.png)
+<br>
+
+
+### 3. ディクテーション用スコアで課題を作成する
+
+1、2で作成したディクテーション用スコアを課題に利用しましょう。エディタ画面の上に表示されている黒い「[**新規の課題**](/help/en/education/assignments-activities.html)」ボタンをクリックし「**テンプレート**」を選択します。
+
+![新規の課題](/help/assets/img/edu-ja/dictation-score-bach-new-assignment.png)
+
+課題作成画面のオプションで**テンプレートロック**と**再生回数制限**を有効にします。
+
+![課題作成オプション](/help/assets/img/edu-ja/dictation-lock-play-limit.png)
+
+* **テンプレートロック**: あらかじめ用意されたテンプレートスコア上の音符を生徒が編集できないようにします。
+* **再生回数制限**: こちらの例では10回に設定しているので、生徒は音声を10回まで聞くことができます。
+<br>
+
+
+### 4. 生徒View
+
+この課題が生徒側ではどう表示されるか見てみましょう。
+生徒が[課題ページを開く](http://127.0.0.1:4000/help/en/education/student-view.html#work-on-an-assignment)と、再生回数制限が表示されると同時にテンプレートロックされたオリジナルの音符はダークブルーで表示されます。
+
+![スコア制限設定](/help/assets/img/edu-ja/dictation-score-bach-play-limit.png)
+<br>
+<br>
+<br>
+
+
+## リズム聞き取りの例
+
+次はリズム聞き取りのアクティビティを作成してみましょう。この例ではスコアを元にFlat上で**音声ファイルを作成する**と仮定して課題を作成してみます。
+
+### 1. 完成形のスコアを作成する
+
+メロディ聞き取り同様、まずは[スコア作成](/help/ja/music-notation-software/スコアの作成.html)から開始しましょう。このスコアを元に聞き取りに使用する音声ファイルを作成するので、完成形のスコアを作成します。
+楽器はクラベスを選択し、アクティビティに必要な小節の分だけビートを入力します。
+
+![メロディ聞き取りスコア](/help/assets/img/edu-ja/dictation-score-rhythmic-full.png)
+
+スコアが完成したら、確認の為に一度自動再生で音声を聞いてみましょう。変更がなければ、このスコアの音声をMP3ファイルとしてエクスポートします。
+
+![MP3ファイルのエクスポート](/help/assets/img/edu-ja/dictation-score-rhythmic-export-mp3.png)
+<br>
+
+
+### 2. 完成形スコアのコピーからビートを削除する
+「**MYライブラリ**」のページで完成形スコアのコピーを作成します。
+コピーできたら名前を変更して、完成形と見分けがつくようにしましょう。
+
+![スコアのコピーと名前変更](/help/assets/img/edu-ja/dictation-score-rhythmic-rename.gif)
+
+ディクテーション部分を空白にするため、このコピーからビートを削除します。
+この空白部分があるスコアをテンプレートとして生徒の課題にします。
+
+![生徒用スコア](/help/assets/img/edu-ja/dictation-score-rhythmic-tocomplete.png)
+
+### 3. 音声ファイルを加える
+
+生徒用のスコアが完成したので、次はこのスコアにディクテーション用の音声を加えます。
+**再生ボタン**のすぐ右にある下向きの矢印をクリックして、「**録音管理**」を選択します。
+
+![再生 > 録音管理](/help/assets/img/editor-ja/recording-ddn-add.png)
+
+次に**1でエクスポートした音声ファイルをアップロード**します。
+
+![リンクを入力する](/help/assets/img/editor-ja/recording-link-add.png)
+
+エクスポートした音声ファイルとスコアは完全に同じ長さになるので、音声の開始・終了の調整は必要ありません。
+<br>
+
+
+### 4. 課題を作成する
+
+この段階までに、課題の作成に必要な音声付きスコアが完成しているのであとは課題として設定するだけです。エディタ画面の上に表示されている黒い「[**新規の課題**](/help/en/education/assignments-activities.html)」ボタンをクリックし「**テンプレート**」を選択します。
+
+![新規の課題](/help/assets/img/edu-ja/dictation-score-bach-new-assignment.png)
+
+オプション欄で次の機能を有効にします。
+
+![課題作成オプション](/help/assets/img/edu-ja/dictation-lock-play-limit-toolset.png)
+
+* **テンプレートロック**: あらかじめ用意されたテンプレートスコア上の音符を生徒が編集できないようにします。
+* **再生回数制限**: こちらの例では6回に設定しているので、生徒は音声を6回まで聞くことができます。
+* **ツールセット**: 生徒が課題の取り組みに利用できるツールを限定できる機能です。今回の例では、リズム聞き取りに使用するメイン機能（元に戻す、コピー、貼り付け）と音符ツールバーのいくつかの機能（音符追加、16分音符までの音の長さの変更、付点）に限定した「リズム」というツールセットを作成しました。
+**ツールセットは一度作成すると保存される**ので、次回はこのツールセットをリストから選ぶだけで利用できます。
+
+![課題作成オプション](/help/assets/img/edu-ja/dictation-score-rhythmic-toolset.png)
+
+### 4. 生徒view
+
+この課題が生徒側ではどう表示されるか見てみましょう。
+生徒が[課題ページを開く](http://127.0.0.1:4000/help/en/education/student-view.html#work-on-an-assignment)と、再生回数制限が表示され、テンプレートロックされたオリジナルの音符はダークブルーで表示されます。通常は利用できるツールバー全てが表示されますが、今回はリズム聞き取り用にカスタム設定したので、選択したツールのみが表示されています。
+
+![](/help/assets/img/edu-ja/dictation-score-rhythmic-student.png)
