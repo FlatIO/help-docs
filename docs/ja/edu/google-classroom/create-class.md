@@ -4,8 +4,8 @@ description: Flat for Educationを利用開始したら、まずはGoogle Classr
 nav: edu
 pid: gc-setup-course
 permalink: ja/education/google-classroom/クラスをFlatで利用.html
-nexttext: Create my first Flat activity or assignment with Google Classroom
-nexturl: en/education/google-classroom/create-music-notation-assignment.html
+nexttext: FlatでGoogle Classroomの課題を作成する
+nexturl: ja/education/google-classroom/課題の作成.html
 ---
 
 この機能を利用するにはFlat for Educationへのアカウント登録が必要です。[こちらのページ](/help/ja/education/google-classroom/)で詳細を確認してください。

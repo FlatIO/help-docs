@@ -1,66 +1,75 @@
 ---
-title: Create a Google Classroom assignment with Flat
-ptitle: Create a music notation assignment on Google Classroom with Flat
-description: From music composition to music theory and live collaborations, Flat is your best option to create music notation assignments
+title: FlatでGoogle Classroomの課題を作成する
+ptitle: Flat for Eductaionを利用してGoogle Classroomの課題を作成してみましょう。
+description: 作曲から音楽理論、ライブ共同楽譜編集までFlat for Educationを利用して様々な課題やアクティビティを作成することができます。
 nav: edu
 pid: gc-create-assignment
-permalink: en/education/google-classroom/create-music-notation-assignment.html
+permalink: ja/education/google-classroom/課題の作成.html
 nexttext: How do my students will experience Flat with Google classroom?
 nexturl: en/education/google-classroom/student-experience.html
 ---
 
-Flat gives you a similar experience than creating an assignment on Google Classroom using a regular Google Docs/Slides. From **music composition to music theory and live collaborations**, Flat allows you to easily create any assignments that include music notation.
+Flatでの課題作成は、Google Classroomでドキュメントやスライドを利用した課題作成に似ています。異なる点は、Flatを利用すると**作曲から音楽理論、ライブ共同楽譜編集など楽譜を利用する様々な課題・アクティビティを作成することができる**という点です。
 
-When creating an assignment on Flat, **this one will be automatically posted to your Google Classroom stream**. We also handle a two-way synchronization of the modifications and your students' submissions.
+Flatで作成された課題は、**Google Classroomのストリームに自動で投稿されます**。課題作成後の編集・生徒からの課題提出も自動で双方に反映されます。
 
-This assignment feature is also a fantastic way to onboard your students on Flat: from their Google Classroom stream, they will have access to their activity on Flat in 1-click.
+Google ClassroomとFlatが同期されていることで、生徒にとっても課題が取り組みやすくなります。生徒はGoogle Classroomのストリームに投稿された課題をクリックするだけで、直接Flatの課題取り組みページを開くことができます。
 
-![Music composition assignment on Google Classroom](/help/assets/img/edu/gc-stream-student.png)
+![Google Classroomに表示されるFlatの課題](/help/assets/img/edu-ja/gc-stream-student.png)
+<br>
 
-## Creating an assignment
+## 課題の作成
 
-To create a Google Classroom using Flat, open your class, then go to the "**Assignments** tab:
+FlatでGoogle Classroomの課題の作成を開始します。
+まずはクラスページから、「**課題**」ページを開きましょう。
 
-![Class tab: Assignments](/help/assets/img/edu/class-tab-assignments.png)
+![課題ページ](/help/assets/img/edu-ja/class-tab-assignments.png)
 
-Click on the "**New Assignment**" button to get started and create your first assignment.
+「**新規の課題**」ボタンをクリックします。
 
-![New assignment](/help/assets/img/edu/class-new-assignment-btn.png)
+![新規の課題](/help/assets/img/edu-ja/class-new-assignment-btn.png)
+<br>
 
-## Assignment mode
+## 課題の種類
 
-Just like a regular Google Docs, Flat gives you multiple different options when creating an assignment:
+Googleドキュメントのように、Flatでも課題の詳細を設定することができます。
 
-* **New score**: Your students will have a direct link to create a new document on Flat. The newly created scores will automatically be added to their submissions.
-* **Template** (= "Make a copy for each student"): When your students will open the assignment from their Google Classroom stream, Flat will automatically copy the score and attach it to their submission.
-* **Shared writing** (= "Students can write"): Your students will all have a write access to your score. This is a wonderful way to create a live collaboration with your whole class. If you want to organize smaller collaborations (e.g. 2 or 3 students), we recommend you to ask one student from each group to create a new document/copy the original score, then add their peers by clicking on "*Collaborate*".
+* **新規のスコア**…生徒は白紙状態のスコアから作業を始めます。
+新規スコア作成を行うページのリンクが生徒に表示されます。このリンクから作成されたスコアは、課題提出の際に自動的に添付されます。
+<br>
+* **テンプレート**…生徒がGoogle Classroomのストリームから課題を開くと、指定されたスコアをのコピーを各生徒に自動で作成し提出の際に課題として添付します。
+<br>
+* **共同編集**…複数人が同時に1つのスコア上で作業を行うことができます。生徒の共同作業を必要とする課題に最適で、スムーズににグループワークを行うことができます。
+2、3人の少人数グループで作業したい場合は、代表の生徒が新規スコアを作成しスコア画面右上の「**シェアする**」ボタンから他の生徒を共同編集者として参加招待することもできます。
 
-![Create an assignment Flat](/help/assets/img/edu/class-new-assignment-pick-type.png)
+![Flatで課題を作成する](/help/assets/img/edu-ja/class-new-assignment-pick-type.png)
+<br>
 
-## Assignment instructions
+## 課題の説明
 
-When you create or update an assignment, you will have the opportunity to complete the content of the assignment.
+Google ClassroomやFlatのストリームでは、課題の名前と説明が表示されます。この説明欄にはウェブサイトや動画のリンクを貼ることもできます。なお、課題名や説明欄は後から編集することができます。
 
-First, **the name and the instructions** of the assignment. That's the main information that will be displayed in Google Classroom and Flat.
+## オプション
+オプション欄では「**評価**」、「**提出期限**」、「**公表日**」を設定することができます。 「公表日」では生徒が課題を見ることができるようになる日時を設定でき、Google Classroom上でも他の課題とともに「授業」ページで投稿予定日時とともに確認することができます。
+設定した日時までは生徒が課題を見ることはできないので、前もって課題・アクティビティを準備しておきたい場合や、空き時間に少しづつ準備したい場合にもお使いいただけます。
+<br>
 
-You also have the possibility to link attachments or embed content: simply paste links into the description, we will automatically resolve them and attach them to your Google Classroom assignment.
+### 課題を投稿する
 
-Finally, you can optionally **enabling grading**, and add a **due date** and a **publication date**. When specifying a post date, your assignment will be marked as "draft" in your Google Classroom course. This is also a great way to test the creation of an assignment without making it available to your students.
+課題が作成できたら投稿しましょう。生徒からどのように見えるかは[こちらのページ](/help/ja/education/生徒view.html)で確認してみましょう。
 
-### Post your assignment
+⚠️ **Google Classroomの制限により、Flat for Educationは課題が一度投稿されると添付されたスコアを変更することができません**。投稿前に選択したスコアが間違いないか、選択した[課題の種類](#assignment-mode)に間違いがないか確認してください。後から間違いに気づいた場合は、課題を作成し直してください。
 
-Now that your assignment is ready you can post it. If you want to see how your students will experience Flat for Education, [check out our dedicated article](/help/en/education/student-view.html).
+Google ClassroomでFlatを利用すると[生徒にはどのように見えるのか](/help/en/education/google-classroom/student-experience.html)も一度確認してみましょう。
+<br>
 
-⚠️ **Due to a limitation of Google Classroom**, Flat for Education cannot change the attachments of the assignments once they are posted. Please carefully check that you selected the correct score(s) and the [correct assignment mode](#assignment-mode). If you made a mistake with the attachments, remove and re-create your assignment using our interface.
+### 課題を他のクラスでも利用する（課題の再利用）
 
-You can now discover [how your students will experience Flat with Google Classroom](/help/en/education/google-classroom/student-experience.html).
+作成した課題・アクティビティをFlat上で簡単に他のクラスへもコピーできます。Flatの課題ページから[「再利用」をクリックするだけ](/help/ja/education/課題の再利用.html)で他のクラスでも同じ課題を出すことができます。
 
-### Copy an assignment to other classes (Re-use assignment)
+⚠️ **Google Classroomの制限により、Flat for EducationはGoogle Classroom上でコピーされた課題へアクセスすることができません**。 課題をコピーして他のクラスで再利用する操作は、必ずFlatで行ってください。
+<br>
 
-To re-use an assignment made with Flat for Education in another classes, [always click on "Re-use" from the Flat for Education website](/help/en/education/reuse-assignment.html).
+### 課題の評価
 
-⚠️ **Due to a limitation of Google Classroom**, Flat for Education doesn't have the rights to access the assignments you copy from the Google Classroom interface. That's why we recommend to always make the copy using our interface.
-
-### Reviews and follow up
-
-Now that your assignment is available to your students you can follow their progress. Check [out our dedicated article to learn more about how to review and give feedback to your students](/help/en/education/review-assignments-activities.html).
+課題が生徒に公表されると、生徒の進捗状況を確認することができるようになります。詳しくは[こちらのページ](/help/ja/education/課題を評価する.html)で評価やコメント方法を確認してください。
