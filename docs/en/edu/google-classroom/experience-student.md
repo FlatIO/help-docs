@@ -17,7 +17,7 @@ You have different ways to onboard your students on Flat with their Google Accou
 
 * **If you posted an assignment to their course**, they will have a direct link to the activity on Flat. At their sign in, they will directly arrive on the score you shared with them (e.g. copy of a template), or be invited to create a new score for the assignment.
 * **If you synchronized a course on Flat**, their account will be provisioned and they will see the course at their connection to Flat (from our homepage or any app / link).
-* **You can also directly give them the link of your Flat for Education website** (e.g. **https://[my-school].flat.io**). They will see a big "Google Sign in" button. By default, even if they are not part of a course, they will have access to your site (only your G Suite domain is authorized to join the site).
+* **You can also directly give them the link of your Flat for Education website** (e.g. **https://[my-school].flat.io**). They will see a "Google Sign in" button on that page that will allow them to sign in.
 
 ## Assignments in their Google Classroom stream
 
