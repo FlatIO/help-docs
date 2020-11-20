@@ -1,42 +1,50 @@
 ---
-title: Experience our Google Classroom integration as a student
-ptitle: How do my students will experience Flat with Google classroom?
-description: 
+title: 生徒view：Google Classroomを利用したFlat
+ptitle: Google ClassroomでFlatを利用すると、生徒側にはどんなふうに表示されるのか見てみましょう。
+description: Google ClassroomでFlatを利用すると生徒の画面ではどのように表示されるのか、このページで確認してみましょう。
 nav: edu
 pid: gc-student-experience
-permalink: en/education/google-classroom/student-experience.html
+permalink: ja/education/google-classroom/生徒view.html
 ---
 
-Once [you created your first music notation assignment](/help/en/education/google-classroom/create-music-notation-assignment.html), how do your students will experience Flat? You will now discover the seamless experience between Flat and Google Classroom.
+[課題の作成](/help/ja/education/google-classroom/課題の作成.html)は出来ましたか？
+このページでは、Flatを利用する際に生徒にはどのように表示されるのかを確認してみましょう。Google ClassroomとFlatのスムーズな連携で、とても簡単に操作できます。
 
-First of all, note that until you post a link to Flat or an assignment, your students won't be aware that they have an account ready on Flat. So simply starting by synchronizing the rostering won't show anything in your Google Classroom course. We also never send any onboarding or marketing email to the students.
+＊Google ClassroomのクラスがFlat for Educationと同期されても、課題が投稿されるか教員によってFlatへのリンクが共有されるまでは、生徒はFlat for Educationにアカウントが準備できていることを知ることができません。Google Classroomのストリームなどにアカウントの作成完了が通知されることもありません。
+また、Flatから生徒に対してアカウント完成の通知や広告メッセージを送ることも一切ありません。
 
-## Onboard your students
 
-You have different ways to onboard your students on Flat with their Google Accounts, here are a few of them:
+## Flatの利用を開始する
 
-* **If you posted an assignment to their course**, they will have a direct link to the activity on Flat. At their sign in, they will directly arrive on the score you shared with them (e.g. copy of a template), or be invited to create a new score for the assignment.
-* **If you synchronized a course on Flat**, their account will be provisioned and they will see the course at their connection to Flat (from our homepage or any app / link).
-* **You can also directly give them the link of your Flat for Education website** (e.g. **https://[my-school].flat.io**). They will see a big "Google Sign in" button. By default, even if they are not part of a course, they will have access to your site (only your G Suite domain is authorized to join the site).
+生徒がGoogleアカウントでFlatを利用開始するには3つの方法があります。
 
-## Assignments in their Google Classroom stream
+* **クラスに課題を投稿する**…教員によって課題が投稿されるとGoogle Classroomに表示され、それをクリックするだけで生徒はFlatのページへ移動することができます。ログインすると直接、課題の取り組み画面が開かれます。
+<br>
+* **Flat for Educationのウェブサイトから直接ログインする**…Google Classroomのクラスとの同期が完了している場合、生徒はFlat for EducationのウェブサイトでGoogleアカウントを使用してログインすることでクラスに参加することができます。
+<br>
+* **スクールページのリンクを共有する**…スクールページのリンク(例：https://[my-school].flat.io)を生徒と共有してFlatを利用開始することもできます。
+<br>
 
-If you [posted an assignment with no attachment](/help/en/education/google-classroom/create-music-notation-assignment.html#assignment-mode), they will see a direct link to create a new score. This link will also attach the newly created score to the student's submission:
+## Google Classroomから課題へアクセスする
 
-![Assignment with a new score](/help/assets/img/edu/gc-stream-assignment-newscore.png?0)
+[新規スコア課題](/help/ja/education/google-classroom/課題の作成.html#assignment-mode)が投稿された場合、生徒には新規スコア作成ページのリンクが表示されます。このリンクから作成された新規スコアが提出課題として添付されます。
 
-If you posted an assignment with an attachment ([**shared writing** or a **template that makes copies**](/help/en/education/google-classroom/create-music-notation-assignment.html#assignment-mode)), your students will have a direct link to the shared resource or copy of the original resource.
+![新規スコア課題](/help/assets/img/edu-ja/gc-stream-assignment-newscore.png)
 
-![Assignment with a template or collaboration](/help/assets/img/edu/gc-stream-assignment-tpl.png?0)
+[共同編集課題やテンプレート課題](/help/ja/education/google-classroom/課題の作成.html#assignment-mode)などが投稿された場合は、生徒には共同編集用のスコアまたはテンプレートスコアへ直接アクセスできるリンクが表示されます。
 
-Once they open the copy of the score or create a new score for the assignment, their work will automatically be attached to their submission on Flat and Google Classroom. You also have access to their work anytime from Flat, this allows you to give live feedback on their work before they submit it
+![共同編集・テンプレート課題](/help/assets/img/edu-ja/gc-stream-assignment-tpl.png)
 
-![Submission started](/help/assets/img/edu/gc-stream-assignment-started.png?0)
+生徒が課題への取り組みを開始すると、取り組んだスコアが自動で提出物として添付されます。また、提出前でも教員は生徒の取り組み内容を確認し、コメントすることができます。
 
-## Turn in
+![課題開始後](/help/assets/img/edu-ja/gc-stream-assignment-started.png)
+課題を開始すると、画面右上に新規スコアが添付されます。
+<br>
 
-Once your students complete the assignment, they will have a "*Turn in*" button at the top of the editor. They can then confirm that the assignment is done, and Flat will bring them back directly in their Google Classroom Classwork page.
+## 提出する
 
-![Turn in Button](/help/assets/img/edu/editor-title-turnin.png?0)
+課題が終わると、生徒はスコア画面上の「**提出する**」ボタンをクリックして提出を行います。課題の提出を確定すると、自動でGoogle Classroomのページへ戻ります。
 
-![Turn in Dialog](/help/assets/img/edu/editor-dialog-turnin.png?0)
+![提出するボタン](/help/assets/img/edu-ja/editor-title-turnin.png)
+
+![提出を確定する](/help/assets/img/edu-ja/editor-dialog-turnin.png)
