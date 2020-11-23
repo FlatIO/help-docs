@@ -44,8 +44,7 @@ It means we update the data and information on Flat instantly when you make modi
 
 ### Do you support grading with Google Classroom?
 
-At this time we only support contextualized/text feedback on Flat, you can directly grade on Google Classroom. When you are 
-viewing the submission on Flat, you will also have a direct link to grade on Classroom.
+Yes, grades are automatically synchronized both ways between Flat for Education and Google Classroom.
 
 ### I created some assignments on Flat before synchronizing it with Google Classroom, how to choose the one I want to post to my course?
 
