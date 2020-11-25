@@ -31,4 +31,4 @@ Flat for Educationは簡単に楽譜を作成・編集できるクラウドベ�
 Teamsとの同期を行うと、生徒はFlat for Educationに**Microsoftアカウントでログイン**でき、**Microsoft Teamsで作成済みの名簿も自動で同期**されます。手順は、Microsoft Teamsのクラスの中からFlatを利用するクラスを選択するだけです。一度同期が完了すると、生徒はすぐにFlat for Educationで作曲や楽譜を用いたアクティビティを開始することができます。
 <div class="btn-cta-wrapper"><a href="/help/en/education/microsoft-teams/setup-course.html" class="btn-cta-site">詳しくみる</a></div>
 
-[![Select classes to synchronize from Microsoft Teams](/help/assets/img/edu-ja/microsoft-teams-sync-class.png)](/help/en/education/microsoft-teams/setup-course.html)
+[![同期するクラスの選択](/help/assets/img/edu-ja/microsoft-teams-sync-class.png)](/help/en/education/microsoft-teams/setup-course.html)

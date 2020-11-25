@@ -1,45 +1,57 @@
 ---
-title: Setup a Microsoft Teams Class on Flat
-description: Sync your Microsoft Teams classes roster to quickly get started with our music notation app
+title: Flatにクラスを作成
+description:FlatとMicrosoft Teamsのクラス名簿を同期すると、すぐにFlat for Educationを利用した音楽学習を始めることができます。 
 nav: edu
 pid: teams-setup-course
-permalink: en/education/microsoft-teams/setup-course.html
+permalink: ja/education/microsoft-teams/Flatにクラスを作成.html
 ---
 
-*You will need a [Flat for Education account](https://flat.io/edu/signup) to use this feature.*
+この機能を利用するには[Flat for Educationアカウントの作成](https://flat.io/ja/edu)が必要です。
 
-Adding a Microsoft Teams class on Flat will automatically provision or update your students' accounts into your private Flat for Education website, then enroll them in your Flat class. Once a course is synchronized on Flat, future roster updates will automatic, you don't have anything else to do!
+Flat for EducationとMicrosoft Teamsクラスを同期すると、自動でそのクラスがFlat上にも作成され、各生徒のFlatアカウントも作成されます。
+一度同期されると、その後の名簿の変更はFlatへも自動更新されるので名簿やアカウントを手作業で編集する必要がありません。 
+<br>
 
-## 1. Open the tab "Classes"
+## 1. 「MYクラス」を開く
 
-Once you are [logged in Flat](https://flat.io/edu), click on the **tab "Classes"** on the left of your screen on any dashboard page.
+[Flatにログイン](https://flat.io/ja/edu)したら、トップページ画面左に表示されている「**MYクラス**」をクリックします。
 
-![Classes tab](/help/assets/img/edu/classes-tab.png)
+![MYクラス](/help/assets/img/edu-ja/classes-tab.png)
 
-Then, click on the button **"Create a new class"** in the center of your screen.
+MYクラスページを開いたら、「**新規クラスの作成**」をクリックします。
 
-![Create a new class](/help/assets/img/edu/create-class.png)
+![新規クラスの作成](/help/assets/img/edu-ja/create-class.png)
+<br>
 
-## 2. Choose "Use Microsoft Teams"
 
-You don't need to enter a class name. Click on the button **"Use Microsoft Teams"**.
+## 2. 「Microsoft Teamsを利用」を選択する
 
-![Create using Microsoft Teams](/help/assets/img/edu/create-class-landing.png)
+新規クラス作成画面が開かれるので、クラス名は入力せず下の「**または、すでに利用しているアプリからクラスを同期する**」の中から「**Microsoft Teamsを利用する**」を選択します。
 
-## 3. Connect your Microsoft 365 account
+![Microsoft Teamsのクラスを同期](/help/assets/img/edu-ja/create-class-landing.png)
+<br>
 
-If you didn't authorize Flat to access to your Microsoft Teams classes, you will be prompted to do so. If you are not an admin of your domain or don't have the permissions to add new apps, [you will be need to share this page with your Microsoft 365 admin](/help/en/education/microsoft-teams/admin-consent.html).
 
-## 4. Select one or multiple classes from your Microsoft Teams account
+## 3. Microsoft 365 アカウントにサインインする
 
-Once you have connected your Microsoft Teams account with Flat, you will see your classes. **Select the ones to create and sync on Flat**.
+FlatのMicrosoft Teamsクラスへのアクセスが許可されていない場合、設定の変更を行って下さい。
+あなたがドメインの管理者ではない場合や、新しいアプリの追加権限を持っていない場合、[このページ](/help/en/education/microsoft-teams/admin-consent.html)をあなたのMicrosoft 365の管理者と共有し・確認してもらって下さい。
+<br>
 
-![Select classes to sync on from Microsoft Teams](/help/assets/img/edu/microsoft-teams-sync-class.png)
 
-Click on the button in the bottom right-hand corner to confirm.
+## 4. 同期したいMicrosoft Teamsクラスを選択する
 
-## 5. That's all!
+FlatでMicrosoft Teamsアカウントに接続されると、Microsoft Teamsに存在する全てのクラスが表示されます。**Flatを利用したいクラスを選択**して下さい。
 
-Your classes are synchronized with Microsoft Teams! You are now all set to [create your first assignment](/help/en/education/assignments-activities.html), share a music score and enjoy Flat with your students.
+![Microsoft Teamsと同期するクラスの選択](/help/assets/img/edu-ja/microsoft-teams-sync-class.png)
 
-Once you are ready, share the link to your Flat for Education school website, your students will be able to sign in with their Microsoft accounts.
+クラスを選択したら画面右下の「**クラスを同期する**」ボタンをクリックして確定して下さい。
+<br>
+
+
+## 5. 同期の完了
+
+Microsoft TeamsクラスとFlatの同期が完了しました!
+Flat上のあなたのスクールページのURLリンク（例：https://[my-school].flat.io）を生徒と共有すると、生徒はこのリンクから**Microsoftアカウントを利用してFlatへログイン**することができます。
+
+ Flat上にクラスが作成できたので、早速このクラスに[課題を作成](/help/ja/education/課題やアクティビティの作成.html)してみましょう。楽譜を使った音楽学習はもちろん、作曲や編曲などのクリエイティブなアクティビティも準備できます。
