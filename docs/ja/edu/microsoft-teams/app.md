@@ -1,39 +1,46 @@
 ---
-title: Flat's Team App
-description: Easily share interactive sheet music as a tab in our Microsoft Teams group or chat
+title: Microsoft TeamsのFlatアプリ
+description: FlatのTeamsアプリをタブとして追加し、Microsoft Teamsのチームやチャットで簡単に楽譜を共有しましょう。
 nav: edu
 pid: teams-apps
-permalink: en/education/microsoft-teams/app.html
-nexttext: Use Flat for Education with Teams
-nexturl: en/education/microsoft-teams/setup-course.html
+permalink: ja/education/microsoft-teams/アプリ.html
+nexttext: Microsoft TeamsのクラスをFlatに同期・作成する。
+nexturl: ja/education/microsoft-teams/Flatにクラスを作成.html
 ---
 
-Flat is a cloud-based music notation app, available both on the web and mobile. With our Microsoft Teams app, **you can quickly share any music score from your Flat account to a Teams Group or Chat as an interactive tab**. Other Teams user can access it in 1-click, and no need for them to sign in to Flat.
+Flatはクラウドベースの楽譜作成アプリで、パソコンやタブレット、スマートフォンなど様々なデバイスでご利用頂けます。
+Microsoft TeamsのFlatアプリをタブとして追加すると、**Flatで作成した楽譜を簡単にチームやチャットで共有できます**。共有されたユーザーはFlatにログインすることなく、1クリックでその楽譜を見ることができます。
+<br>
 
-## Get started with our Teams App
 
-To get started, get our Teams App from [Microsoft AppSource](http://appsource.microsoft.com/en-us/product/office/WA200001395?src=flat-help&mktcmpid=flat-help-app), or directly in Microsoft Teams by adding a new Tab to your Teams Class or Chat:
+## Microsoft TeamsのFlatアプリを使う
 
-* Click on the "**+**" button to create a new tab in your Teams Group or Chat
-* Choose **Flat** in the list of apps available
+Microsoft TeamsのFlatアプリを使用するには、[Microsoft AppSource](http://appsource.microsoft.com/en-us/product/office/WA200001395?src=flat-help&mktcmpid=flat-help-app)からFlatのアプリを探すか、Microsoft Teamsのチームページからタブ追加マークをクリックし、Flatのアプリを探す方法があります。
 
-Once the configuration dialog is open, you can either:
+* チームやチャットページで「**+**」ボタンをクリックします。 
+* アプリのリストから**Flat**を選択します。 
 
-* Sign in to Flat using your Microsoft account and choose a score from your account.
-* Directly paste any Flat public link or private sharing link without the need of signing in.
+Flatアプリの設定画面が開くので、
 
-![Create a Flat tab in Flat](/help/assets/img/edu/microsoft-teams-signin-share.gif)
+* MicrosoftアカウントでFlatにログインし楽譜を選択する
+もしくは、
+* ログインせず、Flatで作成した楽譜のリンクを直接貼り付ける
+を選択して下さい。
 
-Once your interactive score is added as a tab to your group or chat, any participants can view it, play it using our playback or an external audio/video, and directly print it from Microsoft Teams.
+![Flatタブの作成]](/help/assets/img/edu-ja/microsoft-teams-signin-share.gif)
 
-![Flat's Teams App](/help/assets/img/edu/microsoft-teams-shared-score.png)
+チームやチャットで楽譜が共有されると、メンバー全員が閲覧・再生・印刷することが可能になります。
 
-You can also replace the score in the tab with another one, or rename your tab with your score name if you want:
+![Flatアプリ](/help/assets/img/edu-ja/microsoft-teams-shared-score.png)
 
-![Edit Tab in Teams](/help/assets/img/edu/microsoft-teams-s-tab-settings.png)
+タブの楽譜は変更したり名前を変更したりすることもできます。
 
-## Go further with Flat for Education
+![タブの編集](/help/assets/img/edu-ja/microsoft-teams-s-tab-settings.png)
+<br>
 
-If you want your students to create their own music scores or use Flat for your assignments: easily sharing scores as templates or creating group collaboration, you can use Flat for Education with Teams.
 
-Sign up with your Microsoft Teams and sync your Teams Classes rosters to Flat for Education in a few clicks. [Learn more](/help/en/education/microsoft-teams/setup-course.html).
+## Flat for Educationでの課題・アクティビティ作成
+
+楽譜作成や課題に楽譜を利用したい場合は、Flatのテンプレート機能や共同編集機能を使ってバリエーション豊富な[課題やアクティビティを作成](/help/ja/education/課題やアクティビティの作成.html)できます。
+
+Microsoft TeamsアカウントでFlatにログインして、クラス名簿を同期する方法は[こちら](/help/ja/education/microsoft-teams/Flatにクラスを作成.html)から確認して下さい。
