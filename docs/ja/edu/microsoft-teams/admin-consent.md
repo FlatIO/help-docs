@@ -1,31 +1,38 @@
 ---
-title: Authorize Flat in Microsoft 365
-description: Documentation for Microsoft 365 and Microsoft Teams setup
+title: 管理者の同意
+description: Microsoft 365並びにMicrosoft Teamsの設定について確認しましょう。
 nav: edu
 pid: teams-setup-admin
-permalink: en/education/microsoft-teams/admin-consent.html
+permalink: ja/education/microsoft-teams/管理者の同意.html
 ---
 
-Adding a Microsoft Teams class on Flat for Education will automatically provision or update your students' accounts into your private Flat for Education website, then enroll them in your Flat class. Discover on this page how to enable this feature for your Microsoft 365 domain.
+Microsoft TeamsクラスをFlat for Educationと同期させると、Flat上で生徒用アカウントが自動追加・更新されます。この機能を有効にする方法を確認してみましょう。
 
-## Grant admin consent
+## 管理者の同意を付与する
 
-### Using our direct link
+### リンクから直接同意を付与する
 
-To synchronize one or multiple Teams class, Flat for Education needs some authorizations that only an admin can grant. As an admin, you can [use the following link to give consent to use Flat for Education](https://flat.io/auth/azure/admin-consent).
+Microsoft TeamsクラスとFlatを同期するには、管理者の同意をFlat for Educationへ付与する必要があります。管理者の方は[こちらのリンク](https://flat.io/auth/azure/admin-consent)からFlat for Educationへ同意付与を行って下さい。
+<br>
 
-### From the Microsoft Azure Console
 
-If someone from your school already signed in with their Microsoft Account, you will also have the app listed in your Microsoft Azure Console, under "[Enterprise applications](https://portal.azure.com/#blade/Microsoft_AAD_IAM/StartboardApplicationsMenuBlade/AllApps)". Open this page, then go to Security > Permissions. You will see the existing granted authorizations and be able to grant additional permissions to use Flat with Teams. Click on "Grant admin consent" to authorize Flat for Education.
+### Microsoft Azureコンソールから同意を付与する
 
-![Azure Admin console](/help/assets/img/edu/microsoft-azure-console-admin-consent.png)
+他の教員が既にMicrosoftアカウントを使ってFlatへログインしている場合、Microsoft Azureコンソールに「[エンタープライズアプリケーション](https://portal.azure.com/#blade/Microsoft_AAD_IAM/StartboardApplicationsMenuBlade/AllApps)」としてFlatが表示されます。
+Flatのページを開いて、「セキュリティ」の欄にある「**アクセス許可**」をクリックします。このアクセス許可のページで、FlatをMicrosoft Teamsで利用するためのアクセス許可を設定することができます。Flat for Educationへ同意を付与するには「管理者の同意を与えます」をクリックして下さい。
 
-## Permissions details
+![Azure 管理者コンソール](/help/assets/img/edu-ja/microsoft-azure-console-admin-consent.png)
+<br>
 
-You are wondering why we request these permissions. Here is a detailed list for you:
+## アクセス許可の詳細
 
-* **User.ReadBasic.All**: We use it to display the pictures of the accounts on the Teacher's dashboard, as well as students' names, before the students sign in.
-* **EduRoster.ReadBasic** (delegated) and **EduRoster.Read.All** (application) plus **Member.Read.Hidden**: We use this permission to fetch the classes list and memberships and create/update corresponding accounts on Flat for Education.
-* **EduAssignments.ReadWrite** (delegated) and **EduAssignments.ReadWrite.All** (application): Read and write users' view of class assignments and their grades. We will use this permission for create Flat for Education assignments in the future in the Teams classes.
+各アクセスが何のために必要なのか、こちらでご確認ください。
 
-We only access and read information from the chosen classes [when you setup your Flat for Education account](/help/en/education/microsoft-teams/setup-course.html). Once Flat has been authorized, teachers will only be able to synchronize their own classes. We will never access information we do not need and that you did not consent.
+* **User.ReadBasic.All**…生徒がログインする前に、教員側に生徒のプロフィール写真と名前を表示するために必要なアクセスです。
+
+* **EduRoster.ReadBasic** (delegated)、**EduRoster.Read.All** (application)、**Member.Read.Hidden**…Microsoft Teamsのクラス情報からFlat for Education上に生徒アカウントを追加・更新するために必要なアクセスです。
+
+* **EduAssignments.ReadWrite** (delegated)、**EduAssignments.ReadWrite.All** (application)…ユーザーの課題や評価の閲覧と編集の許可です。課題作成や管理に必要なアクセスです。
+
+Flatは、[Flat for Educationアカウント作成時](/help/ja/education/microsoft-teams/Flatにクラスを作成.html)に選択されたクラス以外のクラスの情報にアクセスすることはありません。
+Flatに同意が付与されると、教員は担当クラスのみFlatと同期することができます。Flatが必要でない情報や同意されてない情報へアクセスすることはありません。

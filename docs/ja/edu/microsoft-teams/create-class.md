@@ -35,7 +35,7 @@ MYクラスページを開いたら、「**新規クラスの作成**」をク�
 ## 3. Microsoft 365 アカウントにサインインする
 
 FlatのMicrosoft Teamsクラスへのアクセスが許可されていない場合、設定の変更を行って下さい。
-あなたがドメインの管理者ではない場合や、新しいアプリの追加権限を持っていない場合、[このページ](/help/en/education/microsoft-teams/admin-consent.html)をあなたのMicrosoft 365の管理者と共有し・確認してもらって下さい。
+あなたがドメインの管理者ではない場合や、新しいアプリの追加権限を持っていない場合、[このページ](/help/ja/education/microsoft-teams/管理者の同意.html)をあなたのMicrosoft 365の管理者と共有・確認して下さい。
 <br>
 
 
