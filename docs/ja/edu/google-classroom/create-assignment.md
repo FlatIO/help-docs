@@ -5,8 +5,8 @@ description: 作曲から音楽理論、ライブ共同楽譜編集までFlat fo
 nav: edu
 pid: gc-create-assignment
 permalink: ja/education/google-classroom/課題の作成.html
-nexttext: How do my students will experience Flat with Google classroom?
-nexturl: en/education/google-classroom/student-experience.html
+nexttext: 生徒にはどのように表示されるか確認しましょう。
+nexturl: ja/education/google-classroom/生徒view.html
 ---
 
 Flatでの課題作成は、Google Classroomでドキュメントやスライドを利用した課題作成に似ています。異なる点は、Flatを利用すると**作曲から音楽理論、ライブ共同楽譜編集など楽譜を利用する様々な課題・アクティビティを作成することができる**という点です。
@@ -60,7 +60,7 @@ Google ClassroomやFlatのストリームでは、課題の名前と説明が表
 
 ⚠️ **Google Classroomの制限により、Flat for Educationは課題が一度投稿されると添付されたスコアを変更することができません**。投稿前に選択したスコアが間違いないか、選択した[課題の種類](#assignment-mode)に間違いがないか確認してください。後から間違いに気づいた場合は、課題を作成し直してください。
 
-Google ClassroomでFlatを利用すると[生徒にはどのように見えるのか](/help/en/education/google-classroom/student-experience.html)も一度確認してみましょう。
+Google ClassroomでFlatを利用すると[生徒にはどのように見えるのか](/help/ja/education/google-classroom/生徒view.html)も一度確認してみましょう。
 <br>
 
 ### 課題を他のクラスでも利用する（課題の再利用）

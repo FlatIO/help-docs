@@ -10,9 +10,9 @@ permalink: ja/education/生徒view.html
 
 今回は以下の状況での生徒viewを確認します。
 
-* [1. 教員によってクラスに追加されると](#class-and-student-stream)
-* [2. 課題に取り組む](#work-on-an-assignment)
-* [3. 既存スコアを提出する](#turn-in-an-existing-score-for-an-assignment)
+* [1. 教員によってクラスに追加されると](#1-教員によってクラスに追加されると)
+* [2. 課題に取り組む](#2-課題に取り組む)
+* [3. 既存スコアを提出する](#3-既存のスコアを課題として提出する)
 
 <br>
 

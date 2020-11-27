@@ -17,7 +17,7 @@ Google Classroomのクラスを同期させることで、生徒アカウント�
 
 ## 1. 「MYクラス」を開く
 
-[Flatにログイン](https://flat.io/edu)して、画面左に表示されている「**MYクラス**」をクリックします。
+[Flatにログイン](https://flat.io/ja/edu)して、画面左に表示されている「**MYクラス**」をクリックします。
 
 ![MYクラス](/help/assets/img/edu-ja/classes-tab.png)
 

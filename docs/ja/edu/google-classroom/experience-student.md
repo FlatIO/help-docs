@@ -27,11 +27,11 @@ permalink: ja/education/google-classroom/生徒view.html
 
 ## Google Classroomから課題へアクセスする
 
-[新規スコア課題](/help/ja/education/google-classroom/課題の作成.html#assignment-mode)が投稿された場合、生徒には新規スコア作成ページのリンクが表示されます。このリンクから作成された新規スコアが提出課題として添付されます。
+[新規スコア課題](/help/ja/education/google-classroom/課題の作成.html)が投稿された場合、生徒には新規スコア作成ページのリンクが表示されます。このリンクから作成された新規スコアが提出課題として添付されます。
 
 ![新規スコア課題](/help/assets/img/edu-ja/gc-stream-assignment-newscore.png)
 
-[共同編集課題やテンプレート課題](/help/ja/education/google-classroom/課題の作成.html#assignment-mode)などが投稿された場合は、生徒には共同編集用のスコアまたはテンプレートスコアへ直接アクセスできるリンクが表示されます。
+[共同編集課題やテンプレート課題](/help/ja/education/google-classroom/課題の作成.html)などが投稿された場合は、生徒には共同編集用のスコアまたはテンプレートスコアへ直接アクセスできるリンクが表示されます。
 
 ![共同編集・テンプレート課題](/help/assets/img/edu-ja/gc-stream-assignment-tpl.png)
 

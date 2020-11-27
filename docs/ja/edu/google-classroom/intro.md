@@ -19,14 +19,14 @@ Google ClassroomでFlat for Educationを利用するとどんなことが可能�
 
 ## 3分で出来る！FlatでGoogle Classroomのクラスを利用する方法
 
-[Flatを利用したいクラスを選ぶ](/help/en/education/google-classroom/setup-course.html)だけで、それぞれの生徒にアカウントを自動で作成します。その後クラス名簿に[変更があっても自動で更新](/help/en/education/google-classroom/faq.html#what-is-the--instant-roster-update)されます。
+[Flatを利用したいクラスを選ぶ](/help/ja/education/google-classroom/クラスをFlatで利用.html)だけで、それぞれの生徒にアカウントを自動で作成します。その後クラス名簿に[変更があっても自動で更新](/help/ja/education/google-classroom/よくある質問.html)されます。
 G Suiteのアカウントをすでにお持ちの場合、生徒や他の教員は1クリックするだけでFlat上のあなたのスクールページにログインすることができます。
 <br>
 
 
 ## グーグルドキュメントやグーグルスライドと同じ体験を楽譜で！
 
-グーグルドキュメントやグーグルスライドと同様の機能を利用して[Flatで課題を作成](/help/en/education/google-classroom/create-music-notation-assignment.html)することが出来ます。
+グーグルドキュメントやグーグルスライドと同様の機能を利用して[Flatで課題を作成](/help/ja/education/google-classroom/課題の作成.html)することが出来ます。
 生徒が新規のスコアを作成できるのはもちろん、教員が作成したテンプレートを生徒に共有したり、1つの楽譜を複数人のグループで同時に編集したりも出来ます。
 
 ![Flatで課題を作成](/help/assets/img/edu-ja/class-new-assignment-pick-type.png)
@@ -35,7 +35,7 @@ G Suiteのアカウントをすでにお持ちの場合、生徒や他の教員�
 
 ## Google Classroomのストリームから直接アクセス
 
-Flatでの課題は全て[Google Classroomのストリームに表示](/help/en/education/google-classroom/student-experience.html)されます。生徒は投稿された課題をクリックするだけで、Flatを利用した課題への取り組みを開始できます。
+Flatでの課題は全て[Google Classroomのストリームに表示](/help/ja/education/google-classroom/生徒view.html)されます。生徒は投稿された課題をクリックするだけで、Flatを利用した課題への取り組みを開始できます。
 Flatは他のソフトウェアに比べて、ユーザーから見た使いやすさを重視しています。音楽についてほとんど知識がなくても、音符を入力し創作を開始できます。
 
 ![Google Classroomでの音楽創作の課題](/help/assets/img/edu-ja/gc-stream-student.png)
@@ -52,7 +52,7 @@ Flatは他のソフトウェアに比べて、ユーザーから見た使いや�
 
 ## Flatでの課題提出
 
-生徒は[Flatから直接課題を提出](/help/en/education/google-classroom/student-experience.html#turn-in)することができます。提出された課題は自動でGoogle Classroomでも提出されます。
+生徒は[Flatから直接課題を提出](/help/ja/education/google-classroom/生徒view.html)することができます。提出された課題は自動でGoogle Classroomでも提出されます。
 
 ![Flatから提出](/help/assets/img/edu-ja/editor-student-turnin-button.png)
 <br>
