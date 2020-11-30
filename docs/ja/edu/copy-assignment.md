@@ -5,7 +5,7 @@ pid: copy-assignment
 permalink: ja/education/課題の再利用.html
 ---
 
-Flat for Educationで[課題を作成する](/help/en/education/assignments-activities.html)ことが出来たら、その**課題を他のクラスでも利用する簡単な方法**を確認しておきましょう。
+Flat for Educationで[課題を作成する](/help/ja/education/課題やアクティビティの作成.html)ことが出来たら、その**課題を他のクラスでも利用する簡単な方法**を確認しておきましょう。
 
 例えば、ある課題を1組用に作成したとします。
 同じ課題を2組と3組でも出したい場合、一から課題を作成する必要はありません。たったの3ステップで他のクラスに同じ課題を出すことができます。
