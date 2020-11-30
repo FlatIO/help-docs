@@ -2,8 +2,7 @@
 title: Contact the Flat Team
 description: A question? We are here for you, and love to hear from you! Contact us by email or chat.
 pid: support
-permalink: support
-copyright: true
+permalink: en/support
 layout: default
 ---
 
@@ -29,10 +28,7 @@ layout: default
 
 <script>
   var email, domain = '@flat.io';
-  if (typeof navigator !== 'undefined' && navigator.language === 'ja') {
-    email = 'japan'
-  }
-  else if (window.location.search.indexOf('utm_medium=ios-app') !== -1) {
+  if (window.location.search.indexOf('utm_medium=ios-app') !== -1) {
     email = 'ios' ;
   }
   else if (window.location.search.indexOf('edu=true') !== -1) {
