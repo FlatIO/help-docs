@@ -12,6 +12,16 @@
   status = 302
 
 [[redirects]]
+  from = "/help"
+  to = "/help/en"
+  status = 302
+
+[[redirects]]
+  from = "/help/ja/education/"
+  to = "/help/ja/education/クラスの作成.html"
+  status = 302
+
+[[redirects]]
   from = "/help/en/education/site-license.html"
   to = "/help/en/education/plan.html"
   status = 302
