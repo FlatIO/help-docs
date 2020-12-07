@@ -1,5 +1,5 @@
 ---
-title: How do I cancel my Flat trial or subscription?
+title: How do I cancel my Flat subscription?
 nav: general
 pid: faq
 permalink: en/general/cancel-subscriptions-free-trial.html
@@ -7,7 +7,7 @@ permalink: en/general/cancel-subscriptions-free-trial.html
 
 To cancel or downgrade your Flat subscription, follow the instructions below.
 
-## How to cancel a Flat Power subscription or trial on the web
+## How to cancel a Flat subscription on the web
 
 If you **purchased Flat Power on our website** flat.io using a card or PayPal, [you can cancel your subscription in your account](https://flat.io/settings/account/cancel-subscription):
 
@@ -21,11 +21,9 @@ If you **purchased Flat Power on our website** flat.io using a card or PayPal, [
 
 If you **purchased Flat for Education**, your licenses don't automatically renew, all the licenses are manually renewed.
 
-If you **got a free trial via our website flat.io**, it will automatically cancel if you don't upgrade, and your account will be back on the free plan.
+## How to cancel a Flat subscription on an iPhone or iPad
 
-## How to cancel a Flat subscription or trial on an iPhone or iPad
-
-If you purchased Flat from your iPhone, iPad using our iOS app, you can cancel your Flat subscription or free trial by following these steps:
+If you purchased Flat from your iPhone, iPad using our iOS app, you can cancel your Flat subscription by following these steps:
 
 * On your iPhone or iPad, tap **Settings**.
 * Tap your name.
@@ -39,9 +37,9 @@ If you purchased Flat from your iPhone, iPad using our iOS app, you can cancel y
 
 [Learn more about canceling your subscription on Apple's help center.](https://support.apple.com/en-us/HT202039)
 
-## What happens when I cancel my Flat subscription or trial?
+## What happens when I cancel my Flat subscription?
 
-If you cancel your Flat subscription or trial or your subscription expires, your account will downgrade to a free account at the end of your billing cycle or trial. Additionally:
+If you cancel your Flat subscription  or your subscription expires, your account will downgrade to a free account at the end of your billing cycle. Additionally:
 
 * You'll still have access to the last 15 modified scores (the quota for free accounts)
 * If you're over your downgraded storage quota, older scores will be archived and can be edited if you upgrade your account again. No worries, we never remove your files unless requested
