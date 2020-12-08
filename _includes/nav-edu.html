@@ -1,42 +1,57 @@
 <div class="sidenav">
+  {%- if page.locale == 'ja' %}
+  <a class="nav-title" href="{{site.baseurl}}/ja/education/">Get started</a>
+  <div class="items">
+    <a href="{{site.baseurl}}/ja/education/" class="{% if page.pid == 'edu' %}active{% endif %}">Overview</a>
+    <a href="{{site.baseurl}}/ja/education/flat-for-education-tutorial.html" class="{% if page.pid == 'step-by-step' %}active{% endif %}">チュートリアル</a>
+    <a href="{{site.baseurl}}/en/education/faq.html" class="{% if page.pid == 'faq' %}active{% endif %}">FAQ</a>
+  </div>
+  {%- else %}
   <a class="nav-title" href="{{site.baseurl}}/en/education/">Get started</a>
   <div class="items">
     <a href="{{site.baseurl}}/en/education/" class="{% if page.pid == 'edu' %}active{% endif %}">Overview</a>
     <a href="{{site.baseurl}}/en/education/flat-for-education-tutorial.html" class="{% if page.pid == 'step-by-step' %}active{% endif %}">Tutorial</a>
     <a href="{{site.baseurl}}/en/education/faq.html" class="{% if page.pid == 'faq' %}active{% endif %}">FAQ</a>
   </div>
+  {%- endif %}
 
-  <div class="nav-title">Classes</div>
+  {%- if page.locale == 'ja' %}<a class="nav-title" href="/help/ja/education/クラスの作成.html">クラスの作成</a>
+  {%- elsif page.locale == 'fr' %}<a class="nav-title" href="/help/fr/education/creer-une-classe.html">Classes</a>
+  {%- else %}<a class="nav-title" href="/help/en/education/create-new-class.html">Classes</a>
+  {%- endif %}
   <div class="items">
-    {%- if page.locale == 'en' %}
-    <a href="/help/en/education/create-new-class.html" class="{% if page.pid == 'new-class' %}active{% endif %}">Create a class</a>
-    <a href="/help/en/education/invite-students.html" class="{% if page.pid == 'invite-students' %}active{% endif %}">Invite students</a>
-    {%- elsif page.locale == 'es-es' %}
+    {%- if page.locale == 'es-es' %}
     <a href="/help/es-es/education/crear-una-nueva-clase.html" class="{% if page.pid == 'new-class' %}active{% endif %}">Crear una clase</a>
     <a href="/help/es-es/education/agrega-alumnos.html" class="{% if page.pid == 'invite-students' %}active{% endif %}">Agrega alamnos</a>
+    <a href="/help/en/education/archive-a-class.html" class="{% if page.pid == 'archive-class' %}active{% endif %}">Archive a class</a>
     {%- elsif page.locale == 'es-ar' %}
     <a href="/help/es-ar/education/crear-una-nueva-clase.html" class="{% if page.pid == 'new-class' %}active{% endif %}">Crear una clase</a>
     <a href="/help/es-ar/education/agrega-alumnos.html" class="{% if page.pid == 'invite-students' %}active{% endif %}">Agrega alamnos</a>
+    <a href="/help/en/education/archive-a-class.html" class="{% if page.pid == 'archive-class' %}active{% endif %}">Archive a class</a>
     {%- elsif page.locale == 'fr' %}
     <a href="/help/fr/education/creer-une-classe.html" class="{% if page.pid == 'new-class' %}active{% endif %}">Créer une classe</a>
     <a href="/help/fr/education/inviter-des-etudiants.html" class="{% if page.pid == 'invite-students' %}active{% endif %}">Ajouter des élèves</a>
-    {%- endif %}
+    <a href="/help/en/education/archive-a-class.html" class="{% if page.pid == 'archive-class' %}active{% endif %}">Archiver une classe</a>
+    {%- elsif page.locale == 'ja' %}
+    <a href="/help/ja/education/クラスの作成.html" class="{% if page.pid == 'new-class' %}active{% endif %}">クラスの作成</a>
+    <a href="/help/ja/education/生徒をクラスに追加.html" class="{% if page.pid == 'invite-students' %}active{% endif %}">生徒をクラスに追加</a>
+    <a href="/help/ja/education/クラスのアーカイブ.html" class="{% if page.pid == 'archive-class' %}active{% endif %}">クラスのアーカイブ</a>
+    {%- else %}
+    <a href="/help/en/education/create-new-class.html" class="{% if page.pid == 'new-class' %}active{% endif %}">Create a class</a>
+    <a href="/help/en/education/invite-students.html" class="{% if page.pid == 'invite-students' %}active{% endif %}">Invite students</a>
     <a href="/help/en/education/archive-a-class.html" class="{% if page.pid == 'archive-class' %}active{% endif %}">Archive a class</a>
+    {%- endif %}
   </div>
 
-
-  {%- if page.locale == 'en' %}<a class="nav-title" href="/help/en/education/assignments-activities.html">Assignments</a>
-  {%- elsif page.locale == 'es-es' %}<a class="nav-title" href="/help/es-es/education/tareas-y-actividades.html">Actividades</a>
+  {%- if page.locale == 'es-es' %}<a class="nav-title" href="/help/es-es/education/tareas-y-actividades.html">Actividades</a>
   {%- elsif page.locale == 'es-ar' %}<a class="nav-title" href="/help/es-ar/education/tareas-y-actividades.html">Actividades</a>
   {%- elsif page.locale == 'fr' %}<a class="nav-title" href="/help/fr/education/devoirs-et-activites.html">Activités & Devoirs</a>
+  {%- elsif page.locale == 'ja'  %}<a class="nav-title" href="/help/ja/education/課題やアクティビティの作成.html">アクティビティ</a>
+  {%- else %}<a class="nav-title" href="/help/en/education/assignments-activities.html">Assignments</a>
   {%- endif %}
   </a>
   <div class="items">
-    {%- if page.locale == 'en' %}
-    <a href="/help/en/education/assignments-activities.html" class="{% if page.pid == 'activities' %}active{% endif %}">Create an assignment</a>
-    <a href="/help/en/education/templates.html" class="{% if page.pid == 'templates' %}active{% endif %}">Use a score as a template</a>
-    <a href="/help/en/education/assignments-activities.html#4-extra-options">Schedule an assignment</a>
-    {%- elsif page.locale == 'es-es' %}
+    {%- if page.locale == 'es-es' %}
     <a href="/help/es-es/education/tareas-y-actividades.html" class="{% if page.pid == 'activities' %}active{% endif %}">Tareas y actividades</a>
     <a href="/help/es-es/education/tareas-y-actividades.html#modelo">Partitura como modelo</a>
     <a href="/help/es-es/education/tareas-y-actividades.html#fecha-de-vencimiento-y-publicación">Fecha de vencimiento y publicación</a>
@@ -48,13 +63,32 @@
     <a href="/help/fr/education/devoirs-et-activites.html" class="{% if page.pid == 'activities' %}active{% endif %}">Créer une activité</a>
     <a href="/help/fr/education/devoirs-et-activites.html#template">Utiliser une partition en template</a>
     <a href="/help/fr/education/devoirs-et-activites.html#date-de-distribution-et-date-butoire">Date de publication & butoire</a>
+    {%- elsif page.locale == 'ja' %}
+    <a href="/help/ja/education/課題やアクティビティの作成.html" class="{% if page.pid == 'activities' %}active{% endif %}">課題やアクティビティの作成</a>
+    <a href="/help/ja/education/テンプレート機能.html" class="{% if page.pid == 'templates' %}active{% endif %}">テンプレート機能</a>
+    <a href="/help/ja/education/課題やアクティビティの作成.html#4-extra-options">Schedule an assignment</a>
+    {%- else %}
+    <a href="/help/en/education/assignments-activities.html" class="{% if page.pid == 'activities' %}active{% endif %}">Create an assignment</a>
+    <a href="/help/en/education/templates.html" class="{% if page.pid == 'templates' %}active{% endif %}">Use a score as a template</a>
+    <a href="/help/en/education/assignments-activities.html#4-extra-options">Schedule an assignment</a>
     {%- endif %}
+
+    {%- if page.locale == 'ja' %}
+    <a href="/help/ja/education/ツールセットの設定.html" class="{% if page.pid == 'toolset' %}active{% endif %}">ツールセットの設定</a>
+    <a href="/help/ja/education/ディクテーション.html" class="{% if page.pid == 'dictation' %}active{% endif %}">ディクテーション</a>
+    <a href="/help/ja/education/個別の課題.html" class="{% if page.pid == 'assign-indiv' %}active{% endif %}">個別の課題</a>
+    <a href="/help/ja/education/課題の再利用.html" class="{% if page.pid == 'copy-assignment' %}active{% endif %}">課題の再利用</a>
+    {%- else %}
     <a href="/help/en/education/toolset.html" class="{% if page.pid == 'toolset' %}active{% endif %}">Editor: Limited toolsets</a>
     <a href="/help/en/education/dictation.html" class="{% if page.pid == 'dictation' %}active{% endif %}">Editor: Dictation</a>
     <a href="/help/en/education/assign-individual-students.html" class="{% if page.pid == 'assign-indiv' %}active{% endif %}">Assign individual students</a>
     <a href="/help/en/education/reuse-assignment.html" class="{% if page.pid == 'copy-assignment' %}active{% endif %}">Re-use an assignment</a>
+    {%- endif %}
+
     {%- if page.locale == 'fr' %}
     <a href="/help/fr/education/evaluation-des-devoir.html" class="{% if page.pid == 'reviews' %}active{% endif %}">Évaluation des devoirs</a>
+    {%- elsif page.locale == 'ja' %}
+    <a href="/help/ja/education/課題を評価する.html" class="{% if page.pid == 'reviews' %}active{% endif %}">課題を評価する</a>
     {%- else %}
     <a href="/help/en/education/review-assignments-activities.html" class="{% if page.pid == 'reviews' %}active{% endif %}">Review and grade assignments</a>
     {%- endif %}
@@ -65,6 +99,11 @@
   <div class="items">
     <a href="/help/fr/education/affichage-cote-etudiant.html" class="{% if page.pid == 'student-view' %}active{% endif %}">Affichage côté étudiant</a>
   </div>
+  {%- elsif page.locale == 'ja' %}
+  <div class="nav-title">生徒</div>
+  <div class="items">
+    <a href="/help/ja/education/生徒view.html" class="{% if page.pid == 'student-view' %}active{% endif %}">生徒view</a>
+  </div>
   {%- else %}
   <div class="nav-title">Student</div>
   <div class="items">
@@ -72,23 +111,51 @@
   </div>
   {%- endif %}
 
+  {%- if page.locale == 'ja' %}
+  <div class="nav-title">Admin</div>
+  <div class="items">
+    <a href="/help/ja/education/教員を追加する.html" class="{% if page.pid == 'invite-teachers' %}active{% endif %}">教員を追加する</a>
+    <a href="/help/ja/education/生徒アカウントの削除.html" class="{% if page.pid == 'remove-students-orga' %}active{% endif %}">生徒アカウントの削除</a>
+    <a href="/help/ja/education/スクールプライバシー設定.html" class="{% if page.pid == 'school-privacy-orga' %}active{% endif %}">スクールプライバシー設定</a>
+  </div>
+  {%- else %}
   <div class="nav-title">Admin</div>
   <div class="items">
     <a href="/help/en/education/invite-teachers.html" class="{% if page.pid == 'invite-teachers' %}active{% endif %}">Invite Teachers</a>
-    <a href="/help/en/education/remove-students-organization.html" class="{% if page.pid == 'remove-students-orga' %}active{% endif %}" >Remove students</a>
-    <a href="/help/en/education/school-privacy-organization.html" class="{% if page.pid == 'school-privacy-orga' %}active{% endif %}" >School privacy</a>
+    <a href="/help/en/education/remove-students-organization.html" class="{% if page.pid == 'remove-students-orga' %}active{% endif %}">Remove students</a>
+    <a href="/help/en/education/school-privacy-organization.html" class="{% if page.pid == 'school-privacy-orga' %}active{% endif %}">School privacy</a>
   </div>
+  {%- endif %}
 
+  {%- if page.locale == 'ja' %}
+  <a class="nav-title" href="{{site.baseurl}}/en/education/google-classroom/">Google Classroom</a>
+  <div class="items">
+    <a href="{{site.baseurl}}/en/education/google-classroom/" class="{% if page.pid == 'gc-intro' %}active{% endif %}">Introduction</a>
+    <a href="{{site.baseurl}}/ja/education/google-classroom/クラスをFlatで利用.html" class="{% if page.pid == 'gc-setup-course' %}active{% endif %}">クラスをFlatで利用</a>
+    <a href="{{site.baseurl}}/ja/education/google-classroom/課題の作成.html" class="{% if page.pid == 'gc-create-assignment' %}active{% endif %}">FlatでGoogle Classroomの課題を作成する</a>
+    <a href="{{site.baseurl}}/ja/education/google-classroom/生徒view.html" class="{% if page.pid == 'gc-student-experience' %}active{% endif %}">生徒view：Google Classroomを利用したFlat</a>
+    <a href="{{site.baseurl}}/ja/education/よくある質問.html" class="{% if page.pid == 'gc-faq' %}active{% endif %}">よくある質問</a>
+  </div>
+  {%- else %}
   <a class="nav-title" href="{{site.baseurl}}/en/education/google-classroom/">Google Classroom</a>
   <div class="items">
     <a href="{{site.baseurl}}/en/education/google-classroom/" class="{% if page.pid == 'gc-intro' %}active{% endif %}">Introduction</a>
     <a href="{{site.baseurl}}/en/education/google-classroom/setup-course.html" class="{% if page.pid == 'gc-setup-course' %}active{% endif %}">Setup a course</a>
     <a href="{{site.baseurl}}/en/education/google-classroom/create-music-notation-assignment.html" class="{% if page.pid == 'gc-create-assignment' %}active{% endif %}">Create an assignment</a>
     <a href="{{site.baseurl}}/en/education/google-classroom/student-experience.html" class="{% if page.pid == 'gc-student-experience' %}active{% endif %}">Experience as student</a>
-    <!-- <a href="">Review submissions</a> -->
     <a href="{{site.baseurl}}/en/education/google-classroom/faq.html" class="{% if page.pid == 'gc-faq' %}active{% endif %}">FAQ</a>
   </div>
+  {%- endif %}
 
+  {%- if page.locale == 'ja' %}
+  <a class="nav-title" href="{{site.baseurl}}/en/education/microsoft-teams/">Microsoft Teams</a>
+  <div class="items">
+    <a href="{{site.baseurl}}/en/education/microsoft-teams/" class="{% if page.pid == 'teams-intro' %}active{% endif %}">Introduction</a>
+    <a href="{{site.baseurl}}/ja/education/microsoft-teams/アプリ.html" class="{% if page.pid == 'teams-apps' %}active{% endif %}">Microsoft TeamsのFlatアプリ</a>
+    <a href="{{site.baseurl}}/en/education/microsoft-teams/setup-course.html" class="{% if page.pid == 'teams-setup-course' %}active{% endif %}">Setup a course</a>
+    <a href="{{site.baseurl}}/ja/education/microsoft-teams/管理者の同意.html" class="{% if page.pid == 'teams-setup-admin' %}active{% endif %}">管理者の同意</a>
+  </div>
+  {%- else %}
   <a class="nav-title" href="{{site.baseurl}}/en/education/microsoft-teams/">Microsoft Teams</a>
   <div class="items">
     <a href="{{site.baseurl}}/en/education/microsoft-teams/" class="{% if page.pid == 'teams-intro' %}active{% endif %}">Introduction</a>
@@ -96,7 +163,12 @@
     <a href="{{site.baseurl}}/en/education/microsoft-teams/setup-course.html" class="{% if page.pid == 'teams-setup-course' %}active{% endif %}">Setup a course</a>
     <a href="{{site.baseurl}}/en/education/microsoft-teams/admin-consent.html" class="{% if page.pid == 'teams-setup-admin' %}active{% endif %}">Admin consent</a>
   </div>
+  {%- endif %}
 
+  {%- if page.locale == 'ja' %}
+
+  {%- else %}
+  {%- endif %}
   <a class="nav-title" href="{{site.baseurl}}/en/education/canvas-lms/">Canvas LMS</a>
   <div class="items">
     <a href="{{site.baseurl}}/en/education/canvas-lms/" class="{% if page.pid == 'canvas-intro' %}active{% endif %}">Introduction</a>
