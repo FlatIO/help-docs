@@ -1,4 +1,4 @@
-# Copyright (c) 2019 Vincent Giersch / Tutteo Limited
+# Copyright (c) 2019-2020 Vincent Giersch / Tutteo Limited
 #
 # Permission is hereby granted, free of charge, to any person obtaining
 # a copy of this software and associated documentation files (the
@@ -24,7 +24,7 @@ Jekyll::Hooks.register :site, :pre_render do |site|
     pages_map = Hash.new
     site.pages.each do |page|
         next if !page['nav']
-        unique_pid = page['nav'] + '#' + page['name']
+        unique_pid = page['path'].split('/')[2..].join('/')
         locale = page.permalink.split('/').first
         page.data['locale'] = locale
         pages_map[unique_pid] ||= Hash.new
