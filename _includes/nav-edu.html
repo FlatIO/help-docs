@@ -1,10 +1,10 @@
 <div class="sidenav">
   {%- if page.locale == 'ja' %}
-  <a class="nav-title" href="{{site.baseurl}}/ja/education/">Get started</a>
+  <a class="nav-title" href="{{site.baseurl}}/ja/education/">はじめに</a>
   <div class="items">
-    <a href="{{site.baseurl}}/ja/education/" class="{% if page.pid == 'edu' %}active{% endif %}">Overview</a>
+    <a href="{{site.baseurl}}/ja/education/" class="{% if page.pid == 'edu' %}active{% endif %}">概要</a>
     <a href="{{site.baseurl}}/ja/education/flat-for-education-tutorial.html" class="{% if page.pid == 'step-by-step' %}active{% endif %}">チュートリアル</a>
-    <a href="{{site.baseurl}}/en/education/faq.html" class="{% if page.pid == 'faq' %}active{% endif %}">FAQ</a>
+    <a href="{{site.baseurl}}/ja/education/よくある質問.html" class="{% if page.pid == 'faq' %}active{% endif %}">FAQ</a>
   </div>
   {%- else %}
   <a class="nav-title" href="{{site.baseurl}}/en/education/">Get started</a>
@@ -64,9 +64,9 @@
     <a href="/help/fr/education/devoirs-et-activites.html#template">Utiliser une partition en template</a>
     <a href="/help/fr/education/devoirs-et-activites.html#date-de-distribution-et-date-butoire">Date de publication & butoire</a>
     {%- elsif page.locale == 'ja' %}
-    <a href="/help/ja/education/課題やアクティビティの作成.html" class="{% if page.pid == 'activities' %}active{% endif %}">課題やアクティビティの作成</a>
+    <a href="/help/ja/education/課題やアクティビティの作成.html" class="{% if page.pid == 'activities' %}active{% endif %}">課題・アクティビティ作成</a>
     <a href="/help/ja/education/テンプレート機能.html" class="{% if page.pid == 'templates' %}active{% endif %}">テンプレート機能</a>
-    <a href="/help/ja/education/課題やアクティビティの作成.html#4-extra-options">Schedule an assignment</a>
+    <a href="/help/ja/education/課題やアクティビティの作成.html##4-オプション">課題の投稿を予約</a>
     {%- else %}
     <a href="/help/en/education/assignments-activities.html" class="{% if page.pid == 'activities' %}active{% endif %}">Create an assignment</a>
     <a href="/help/en/education/templates.html" class="{% if page.pid == 'templates' %}active{% endif %}">Use a score as a template</a>
@@ -128,10 +128,10 @@
   {%- endif %}
 
   {%- if page.locale == 'ja' %}
-  <a class="nav-title" href="{{site.baseurl}}/en/education/google-classroom/">Google Classroom</a>
+  <a class="nav-title" href="{{site.baseurl}}/ja/education/google-classroom/">Google Classroom</a>
   <div class="items">
-    <a href="{{site.baseurl}}/en/education/google-classroom/" class="{% if page.pid == 'gc-intro' %}active{% endif %}">Introduction</a>
-    <a href="{{site.baseurl}}/ja/education/google-classroom/クラスをFlatで利用.html" class="{% if page.pid == 'gc-setup-course' %}active{% endif %}">クラスをFlatで利用</a>
+    <a href="{{site.baseurl}}/ja/education/google-classroom/" class="{% if page.pid == 'gc-intro' %}active{% endif %}">はじめに</a>
+    <a href="{{site.baseurl}}/ja/education/google-classroom/クラスをFlatで利用.html" class="{% if page.pid == 'gc-setup-course' %}active{% endif %}">クラスの作成</a>
     <a href="{{site.baseurl}}/ja/education/google-classroom/課題の作成.html" class="{% if page.pid == 'gc-create-assignment' %}active{% endif %}">FlatでGoogle Classroomの課題を作成する</a>
     <a href="{{site.baseurl}}/ja/education/google-classroom/生徒view.html" class="{% if page.pid == 'gc-student-experience' %}active{% endif %}">生徒view：Google Classroomを利用したFlat</a>
     <a href="{{site.baseurl}}/ja/education/よくある質問.html" class="{% if page.pid == 'gc-faq' %}active{% endif %}">よくある質問</a>
@@ -148,11 +148,11 @@
   {%- endif %}
 
   {%- if page.locale == 'ja' %}
-  <a class="nav-title" href="{{site.baseurl}}/en/education/microsoft-teams/">Microsoft Teams</a>
+  <a class="nav-title" href="{{site.baseurl}}/ja/education/microsoft-teams/">Microsoft Teams</a>
   <div class="items">
-    <a href="{{site.baseurl}}/en/education/microsoft-teams/" class="{% if page.pid == 'teams-intro' %}active{% endif %}">Introduction</a>
-    <a href="{{site.baseurl}}/ja/education/microsoft-teams/アプリ.html" class="{% if page.pid == 'teams-apps' %}active{% endif %}">Microsoft TeamsのFlatアプリ</a>
-    <a href="{{site.baseurl}}/en/education/microsoft-teams/setup-course.html" class="{% if page.pid == 'teams-setup-course' %}active{% endif %}">Setup a course</a>
+    <a href="{{site.baseurl}}/ja/education/microsoft-teams/" class="{% if page.pid == 'teams-intro' %}active{% endif %}">はじめに</a>
+    <a href="{{site.baseurl}}/ja/education/microsoft-teams/アプリ.html" class="{% if page.pid == 'teams-apps' %}active{% endif %}">TeamsのFlatアプリ</a>
+    <a href="{{site.baseurl}}/ja/education/microsoft-teams/Flatにクラスを作成.html" class="{% if page.pid == 'teams-setup-course' %}active{% endif %}">クラスの作成</a>
     <a href="{{site.baseurl}}/ja/education/microsoft-teams/管理者の同意.html" class="{% if page.pid == 'teams-setup-admin' %}active{% endif %}">管理者の同意</a>
   </div>
   {%- else %}
