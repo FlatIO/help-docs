@@ -1,6 +1,6 @@
 ---
 title: Flatにクラスを作成
-description:FlatとMicrosoft Teamsのクラス名簿を同期すると、すぐにFlat for Educationを利用した音楽学習を始めることができます。 
+description: FlatとMicrosoft Teamsのクラス名簿を同期すると、すぐにFlat for Educationを利用した音楽学習を始めることができます。 
 nav: edu
 pid: teams-setup-course
 permalink: ja/education/microsoft-teams/Flatにクラスを作成.html
