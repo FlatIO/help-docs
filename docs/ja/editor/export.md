@@ -14,9 +14,9 @@ action.getPNG: true
 
 Flatで作成したスコアやタブ譜は、簡単に印刷・エクスポートすることができます。
 
-**[Flat Power](https://flat.io/ja/pricing)に含まれる機能**
-* 以下の全ての印刷オプション
-* 個々のパートのみの印刷とエクスポート
+**[Flat Power](https://flat.io/ja/pricing)でご利用できる機能**
+* パートスコアのみ、また複数のパートスコアを選択しての印刷・エクスポート
+* 以下に記載の「PDFへエクスポートする際のオプション」
 * 「*Score created with the free version of Flat*」の非表示
 
 ## スコアのエクスポート
@@ -54,4 +54,4 @@ Flatでは簡単に様々なフォーマットで楽譜をエクスポートす�
 ## パート譜をエクスポート・印刷する
 
 スコアをエクスポート・印刷する際に、パート譜のみ印刷をすることができます（上記参照）。
-![パート譜のみの印刷](/help/assets/img/editor/print-single-part.gif)
+![パート譜のみの印刷](/help/assets/img/editor-ja/print-single-part.gif)
