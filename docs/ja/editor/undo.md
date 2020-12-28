@@ -22,6 +22,9 @@ action.redo: true
 
 ショートカットキーで元に戻すことも出来ます： <span class="kbs"><span class="kb-container"><span class="kb">CMD / Ctrl </span> + <span class="kb">Z</span></span></span>
 
+<br>
+
+
 ## やり直し
 
 元に戻す操作をキャンセルするにはやり直しアイコンをクリックします。![Redo](https://prod.flat-cdn.com/img/icons/editorActions/redo.svg)

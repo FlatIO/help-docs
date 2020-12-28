@@ -25,11 +25,15 @@ action.removePart: true
 
 ![パートの追加](/help/assets/img/editor-ja/part-add.gif)
 
+<br>
+
 ## パートの削除
 
 パートを削除するには、楽器設定ページで各パートの右に表示されている「**削除**」をクリックしてください。
 
 ![パートの削除](/help/assets/img/editor-ja/part-edit.png)
+
+<br>
 
 ## パートの並び替え
 
