@@ -24,6 +24,7 @@ action.redo: true
 
 <br>
 
+
 ## やり直し
 
 元に戻す操作をキャンセルするにはやり直しアイコンをクリックします。![Redo](https://prod.flat-cdn.com/img/icons/editorActions/redo.svg)
