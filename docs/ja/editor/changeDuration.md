@@ -51,4 +51,4 @@ action.lengthenDuration: true
 * 入力追加した箇所にあった既存の音符を削除する
 * 入力追加した箇所にあった既存の音符を右側にスライドさせる
 
-[この選択肢の詳細については専用のヘルプページをご覧ください。](/help/en/music-notation-software/change-duration-insert.html).
+[この選択肢の詳細については専用のヘルプページをご覧ください。](/help/ja/music-notation-software/change-duration-insert.html).
