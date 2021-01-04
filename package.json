@@ -6,7 +6,7 @@
     "axios": "^0.21.0",
     "glob": "^7.0.5",
     "ignore": "^5.1.4",
-    "js-yaml": "^3.6.1",
+    "js-yaml": "^4.0.0",
     "remark-lint": "^8.0.0",
     "remark-parse": "^9.0.0",
     "remark-retext": "^4.0.0",
