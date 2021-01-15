@@ -14,7 +14,7 @@ Using Canvas LMS for your music courses? [Flat for Education](https://flat.io/ed
 
 <div class="btn-cta-wrapper"><a href="https://flat.io/edu/signup?ref=help-canvas" class="btn-cta-site">Sign up to Flat for Education</a></div>
 
-Discover today [how to set up Flat in your Canvas courses](#setup-and-configuration) and use the different integrations possibilities:
+Discover today [how to set up Flat in your Canvas courses](/help/en/education/canvas-lms/setup-configuration.html) and use the different integrations possibilities:
 
 * [SSO from your courses](/help/en/education/canvas-lms/sso.html). We automatically create and update the accounts for you, [create groups](/help/en/education/canvas-lms/sso.html#automatic-classes-creation-on-flat) and assignments on Flat.
 * [Embed your sheet music in 1-click from the Canvas Editor](/help/en/education/canvas-lms/embed.html) (Pages, Assignment content, Quizzes, etc.).
