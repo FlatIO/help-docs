@@ -1,9 +1,9 @@
 ---
 title: Using Blackboard with Flat for Education
-ptitle: Using Flat with Blackboard to create music notation assignments
-description: Discover how to use Flat in Blackboard to create seamless assignments from music theory to music compsition in your favorite LMS.
+ptitle: Using Flat with Blackboard Learn to create music notation assignments
+description: Discover how to use Flat in Blackboard Learn to create seamless assignments from music theory to music compsition in your favorite LMS.
 nav: edu
-pid: moodle
+pid: blackboard
 permalink: en/education/blackboard
 ---
 
