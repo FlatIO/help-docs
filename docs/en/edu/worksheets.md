@@ -6,11 +6,11 @@ pid: worksheet
 permalink: en/education/worksheet.html
 ---
 
-They are various kinds of activities and assignments you can create in Flat for Education. Use our auto-graded music theory worksheets for homework practice, or knowledge assessment if you decide to give some points for each exercise. You only need to pick a subject, choose some settings, and the platform will automatically generate for you some exercises to assess the knowledge of your students on basic music theory. Our product will also automatically grade their work and push grades to Google Classroom or your LMS (MusicFirst, Canvas, Schoology, Moodle, etc.
+There are various kinds of activities and assignments you can create in Flat for Education. Use our auto-graded music theory worksheets for homework practice, or knowledge assessment if you decide to give some points for each exercise. You only need to pick a subject, choose some settings, and the platform will automatically generate for you some exercises to assess the knowledge of your students on basic music theory. Our product will also automatically grade their work and push grades to Google Classroom or your LMS (MusicFirst, Canvas, Schoology, Moodle, etc.
 
 ## Creating a worksheet 
 
-To create a worksheet, you must create a class [created your first class](/help/en/education/create-new-class.html). Now you need to create a new assignment [create a new assignment](/help/en/education/activities.html) and choose the option "**worksheet**".
+To create a worksheet, you must first create a class [created your first class](/help/en/education/create-new-class.html). Now you need to create a new assignment [create a new assignment](/help/en/education/activities.html) and choose the option "**worksheet**".
 
 
 ![Create a worksheet](/help/assets/img/edu/worksheet.png)
