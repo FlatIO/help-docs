@@ -1,99 +1,115 @@
 ---
 title: Tareas y actividades
-description: Vamos a ver diferentes tipos de actividades que podéis lograr en Flat para Educación con vuestros alumnos.
+description: Descubre los diferentes tipos de actividades que puedes crear para tus estudiantes con Flat para Educación. 
 nav: edu
 pid: activities
-permalink: es-es/education/tareas-y-actividades.html
+permalink: es-es/educacion/tareas-y-actividades.html
 ---
 
-Hay diferentes tipos de actividades y tareas que podéis crear en Flat para Education. Para crear el primero, tenéis que estar seguro que ya [ha creado vuestra primera clase](/help/es-es/education/crear-una-nueva-clase.html).
+Con Flat para Educación puedes crear distintos tipos de actividades. Pero primer, asegúrate de haber creado una clase. Hay diferentes tipos de actividades y tareas que podéis crear en Flat para Education. Antes de empezar asegúrate de [crear una clase](/help/es-es/educacion/crear-una-nueva-clase.html).
+Ve a tu clase, ve a **Tareas** y haz click en **"Crear"**.
 
-![Stream vista](/help/assets/img/edu/class-tab-assignments.png)
+![Crear una nueva actividad](/help/assets/img/edu-es/nueva-tarea.png)
 
-Podéis abrir la lista de todas las tareas haciendo clic en el botón izquierdo.
-Podéis empezar creando una nueva tarea haciendo clic en el botón derecho.
+Existen dos tipos de actividades que puedes realizar con tus estudiantes o puedes reutilizar una actividad preexistente (lo que te permite ahorrar tiempo). 
 
-## 1. Seleccione vuestro primer tipo de tarea
+![Tipos de actividades](/help/assets/img/edu-es/tipos-actividad.png)
 
-Hay 4 diferentes tipos de tareas o actividades que podéis crear:
 
-![Stream view](/help/assets/img/edu/class-new-assignment-pick-type.png)
+## 1. Tareas
 
-### Nueva partitura
+Da instrucciones a tus estudiantes para que lleven a cabo una tarea. Existen tres tipos de tarea. 
 
-Vuestros alumnos tienen que crear una nueva partitura, trabajar en está siguiendo las pautas y enviárselas de nuevo.
+![Tipos de tareas](/help/assets/img/edu-es/tipos-tareas.png)
 
-### Leer
+**Nueva Partitura**
 
-Este modo esta destinado a compartir una partitura que esta adentro de vuestra biblioteca sin que los alumnos puedan ser capaces de editarlo.
+Tus estudiantes crearán una partitura desde cero a partir de tus instrucciones.
 
-### Escribir
+**Plantilla**
 
-Si quiere crear un grupo de actividad con todos los alumnos trabajando sobre la misma partitura en tiempo réal.
+Cada estudiante recibirá una plantilla de una partitura que hayas creado previamente y guardado en tu biblioteca en Flat para Educación. Sobre esta plantilla los estudiantes trabajarán siguiendo tus instrucciones. Para seleccionar la plantilla haz click en **"selecciona la partitura"** y escoge la que quieras utilizar de plantilla. 
 
-⚠️ Nosotros aconsejamos guardar la misma cantidad de alumnos en el mismo grupo de actividad siguiente 15.
+![Selecciona partitura](/help/assets/img/edu-es/selecciona-plantilla.png)
 
-💡 Estamos trabajando en un selector de grupo para crear rápidamente un grupo mas pequeño adentro de la misma clase :)
-
-### Modelo
-
-Todos los alumnos van a recibir un copia de la partitura que comenzaron. Podéis imaginar muchas actividades diferentes alrededor de eso:
-
-* encontrar un error
+Con este tipo de tarea puedes crear un sinfín de ejercicios, algunos ejemplos son:
+* encontrar el error
 * completa el intervalo 
 * terminar la composition
 * ...
 
-💡 Estamos trabajando sobre una nueva gama de ejercicios para evitar a usted la creación manual de ejercicios básicos.
+**Escritura colaborativa**
 
-## 2. Configuración de la tarea
+Con este tipo de tarea varios estudiantes podrán trabajar sobre la misma plantilla en tiempo real. 
 
-### Principal información sobre la tarea
+### Configuración de la tarea
 
-![Tarea información](/help/assets/img/edu/class-new-assignment-instructions.png)
+Conoce los diferentes ajustes que tienes para tus tareas. 
 
-Podrá escribir un nombre y una descripción. Esta información será accessible desde la tarea del alumno en cualquier momento mientras trabajen sobre la partitura.
+**Información básica**
 
-### Seleccionar la partitura
+Debes ingresar el nombre e instrucciones de la tarea para guiar a tu estudiante. Esta información estará disponible para tu estudiante en todo momento. 
 
-![Seleccionar la partitura](/help/assets/img/activities/pickscore.png)
+**Fecha de publicación y entrega**
 
-Podréis buscar vuestras partituras y seleccionar una de ellas. Debe notar que se muestra una lista a la derecha del nombre de la partitura. Esta, está directamente relacionada con el tipo de tarea que quiere crear:
+Establece cuándo se publicará la tarea y la fecha de entrega para tus estudiantes. 
 
-* Alumnos pueden leer -> **Leer**
-* Alumnos pueden escribir -> **Escribir**
-* Alumnos van a recibir una copia -> **Modelo**
-* No partitura seleccionada -> **Nueva partitura**
+💡 Los estudiantes podrán enviar su trabajo posterior a la fecha de entrega pero se marcará como tarde. 
 
-![Selecciona la partitura - Consejos](/help/assets/img/activities/pickscore-tips.png)
+**Estudiantes asignados**
 
-### Fecha de vencimiento y publicación
+Puedes establecer que la tarea sea para ciertos estudiantes en particular y no para toda tu clase. 
 
-![Selecciona la partitura - Consejos](/help/assets/img/activities/post-due-dates.png)
+**Calificación**
 
-Podéis poner una **fecha de vencimiento** para vuestra tarea para entregar a vuestro trabajo.
+Determina el puntaje máximo para calificar esta tarea. 
 
-💡 Alumnos podrían sumar vuestro trabajo después de la fecha de vencimiento pero van a estar marcados como envíos tardíos.
+**Barra de herramientas**
 
-Podéis también trabajar vuestra tarea cuando tenéis tiempo libre y **poner una fecha** cuando estarán disponibles para el aula.
+Establece la barra de herramientas que tendrán tus estudiantes a la hora de realizar la tarea.
 
-### Subir vuestra tarea
+**Bloquear plantilla**
 
-Ahora que vuestra tarea esta preparada podéis subirla. Acá es lo que va a ver el alumno desde vuestro stream:
+Al activar esta opción evitarás que los estudiantes puedan cambiar las notas que agregaste en tu plantilla, solo podran agregan nuevas. Las notas de la plantilla los estudiantes las verán en color azúl al hacer su tarea. 
 
-![alumnos stream](/help/assets/img/activities/stream-student.png)
+![Selecciona partitura](/help/assets/img/edu-es/lock-blue-note.png)
 
-Una vez que hagan clic sobre esta, podrían ver las instrucciones a seguir:
+**Limitar número de reproducciones**
 
-![tarea instrucciones](/help/assets/img/activities/assignment-description.png)
+Establece cuantas veces tus estudiantes pueden reproducir el audio de la plantilla. 
 
-## 3. Seguir
+### Publica tu tarea
 
-Ahora que vuestra tarea esta disponible para vuestros alumnos, podéis mirar vuestros progresos.
+Cuando hayas terminado de crear tu tarea, haz click en crear. 
 
-![Seguimiento de tarea](/help/assets/img/activities/assignment-tracking.png)
+## 2. Fichas
 
-Alumnos que aparezcan en rojo adentro de la sección, son los que ya comenzaron a trabajar sobre la tarea.
-Una vez que suman algo, recibirá una notificación.
+Las fichas generarán por ti una serie de ejercicios para tus estudiantes. Lo mejor de todo, las fichas se auto-califican. 
 
-*pronto una sección sobre el seguimiento de tareas y notas será disponible*.
+Luego de escoger este tipo de actividad al crear una nueva actividad, debes hacer clic en agregar ejercicios. 
+
+![Selecciona partitura](/help/assets/img/edu-es/ejer-fichas.png)
+
+Ahora es momento de escoger el tipo de ejercicios que quieres agregar: 
+* De tono
+* De tonalidades 
+* Intervalos 
+* Acordes 
+* Escalas 
+
+![Selecciona partitura](/help/assets/img/edu-es/tema-fichas.png)
+
+Termina de establecer las instrucciones, la cantidad de ejercicios y el puntaje. 
+
+![Agregar ejercicios](/help/assets/img/edu-es/tema-fichas.png)
+
+Haz clic en **"Agregar ejercicios"** y la ficha estará lista para ser publicada. 
+
+![Agregar ejercicios](/help/assets/img/edu-es/publi-fichas.png)
+
+
+Cuando hayas creado la actividad para tus estudiantes será momento de esperar a que empiecen a trabajar. Recuerda que puedes darle seguimiento a tus estudiantes en tiempo real. 
+
+Si ingresas a una tarea ya creada y vas a la sección **"Trabajo de los estudiantes"** podrás ver el desglose del trabajo de los estudiantes. 
+
+![Selecciona partitura](/help/assets/img/edu-es/desglose-tarea.png)

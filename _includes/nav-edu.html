@@ -21,8 +21,8 @@
   {%- endif %}
   <div class="items">
     {%- if page.locale == 'es-es' %}
-    <a href="/help/es-es/education/crear-una-nueva-clase.html" class="{% if page.pid == 'new-class' %}active{% endif %}">Crear una clase</a>
-    <a href="/help/es-es/education/agrega-alumnos.html" class="{% if page.pid == 'invite-students' %}active{% endif %}">Agrega alamnos</a>
+    <a href="/help/es-es/educacion/crear-una-nueva-clase.html" class="{% if page.pid == 'new-class' %}active{% endif %}">Crear una clase</a>
+    <a href="/help/es-es/educacion/agregar-estudiantes.html" class="{% if page.pid == 'invite-students' %}active{% endif %}">Agrega alamnos</a>
     <a href="/help/en/education/archive-a-class.html" class="{% if page.pid == 'archive-class' %}active{% endif %}">Archive a class</a>
     {%- elsif page.locale == 'es-ar' %}
     <a href="/help/es-ar/education/crear-una-nueva-clase.html" class="{% if page.pid == 'new-class' %}active{% endif %}">Crear una clase</a>
@@ -43,7 +43,7 @@
     {%- endif %}
   </div>
 
-  {%- if page.locale == 'es-es' %}<a class="nav-title" href="/help/es-es/education/tareas-y-actividades.html">Actividades</a>
+  {%- if page.locale == 'es-es' %}<a class="nav-title" href="/help/es-es/educacion/tareas-y-actividades.html">Actividades</a>
   {%- elsif page.locale == 'es-ar' %}<a class="nav-title" href="/help/es-ar/education/tareas-y-actividades.html">Actividades</a>
   {%- elsif page.locale == 'fr' %}<a class="nav-title" href="/help/fr/education/devoirs-et-activites.html">Activités & Devoirs</a>
   {%- elsif page.locale == 'ja'  %}<a class="nav-title" href="/help/ja/education/課題やアクティビティの作成.html">アクティビティ</a>
@@ -52,9 +52,9 @@
   </a>
   <div class="items">
     {%- if page.locale == 'es-es' %}
-    <a href="/help/es-es/education/tareas-y-actividades.html" class="{% if page.pid == 'activities' %}active{% endif %}">Tareas y actividades</a>
-    <a href="/help/es-es/education/tareas-y-actividades.html#modelo">Partitura como modelo</a>
-    <a href="/help/es-es/education/tareas-y-actividades.html#fecha-de-vencimiento-y-publicación">Fecha de vencimiento y publicación</a>
+    <a href="/help/es-es/educacion/tareas-y-actividades.html" class="{% if page.pid == 'activities' %}active{% endif %}">Tareas y actividades</a>
+    <a href="/help/es-es/educacion/tareas-y-actividades.html#modelo">Partitura como modelo</a>
+    <a href="/help/es-es/educacion/tareas-y-actividades.html#fecha-de-vencimiento-y-publicación">Fecha de vencimiento y publicación</a>
     {%- elsif page.locale == 'es-ar' %}
     <a href="/help/es-ar/education/tareas-y-actividades.html" class="{% if page.pid == 'activities' %}active{% endif %}">Tareas y actividades</a>
     <a href="/help/es-ar/education/tareas-y-actividades.html#modelo">Partitura como modelo</a>
@@ -121,7 +121,11 @@
   {%- else %}
   <div class="nav-title">Admin</div>
   <div class="items">
+    {%- if page.locale == 'es-es' %}
+    <a href="/help/es-es/educacion/agregar-profesores.html" class="{% if page.pid == 'invite-teachers' %}active{% endif %}">Agrega profesores</a>
+    {%- else %}
     <a href="/help/en/education/invite-teachers.html" class="{% if page.pid == 'invite-teachers' %}active{% endif %}">Invite Teachers</a>
+    {%- endif %}
     <a href="/help/en/education/remove-students-organization.html" class="{% if page.pid == 'remove-students-orga' %}active{% endif %}">Remove students</a>
     <a href="/help/en/education/school-privacy-organization.html" class="{% if page.pid == 'school-privacy-orga' %}active{% endif %}">School privacy</a>
   </div>

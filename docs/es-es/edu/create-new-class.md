@@ -1,51 +1,37 @@
 ---
-title: Crear una nueva clase en Flat (de/para) Education.
-description: Empezar con Flat (de/para) Education, consulté nuestra ayuda e información sobre nuestro producto educativo.
+title: Cómo crear una clase en Flat para Educación 
+description: Aprende a crear una clase en Flat para Educación 
 nav: edu
 pid: new-class
-permalink: es-es/education/crear-una-nueva-clase.html
-nexttext: Actividades y Tereas.
-nexturl: es-es/education/tareas-y-actividades.html
+permalink: es-es/educacion/crear-una-nueva-clase.html
+nexttext: Tareas y actividades.
+nexturl: es-es/educacion/tareas-y-actividades.html
 ---
 
-Para crear una nueva classe con Flat, [crear una cuenta gratis de EDU sobre nuestra plataforma](https://flat.io/edu).
+Creando una clase será más fácil organizar y compartir [diferente tipos de actividades](/help/es-es/educacion/tareas-y-actividades.html) con tus estudiantes. 
 
-## 1. Abrir la pestaña "Clases".
+Primero, necesitas [crear una cuenta educativa](/flat.io/edu). Si tu institución ya tiene una, pídeles que te envién una [invitación para unirte a la cuenta educativa](/help/es-es/educacion/agregar-profesores.html). 
 
-Una vez que se hayáis conectado en Flat, hagáis clic en la pestaña "Clases" arriba a la izquierda de vuestra pantalla en cualquier pagina del tablero.
+Ahora, ¡manos a la obra! Por favor, sigue los siguientes pasos. 
 
-![pestaña clases](/help/assets/img/edu/classes-tab.png)
+## 1. Haz click en "Crear Clase"
 
-Después, hagáis clic en **"Crear una nueva clase"** en el centro de la pantalla.
+Después de iniciar sesión, haz click en **"Mis Clases"** (ubicado en la parte izquierda de tu pantalla) y luego en **"Crear una clase"**
 
-![crear una nueva clase](/help/assets/img/edu/create-class.png)
+![Crear clase](/help/assets/img/edu-es/crear-clase.png)
 
-### Cuál es el propósito de una clase ?
+## 2. Escoje cómo crear tu clase 
 
-Creando una clase será más fácil de organizar y compartir actividades do todo tipos con vuestros alumnos.
-Tenemos una [sección dedicada] que habla de los diferentes tipos de actividades que podéis crear y asignar a vuestra sala de clase.
-La mayoría del tiempo, recomendamos seguir la misma organización que teneis en vuestra "real" sala de clase.
+Puedes crear tu clase directamente en Flat, asignándole un nombre, o puedes sincronizar una clase preexistente que tengas con una aplicación de terceros, como **Google Classroom** por ejemplo. 
 
-## 2. Asignar un nombre a vuestra nueva clase
-Ahora, teneis un nueva página que se abrió, dónde podéis crear y gestionar vuestra clase. Hay dos opciones para hacerlo:
-  * **Crear vuestra clase en Flat**
-  * **[Utilizar Google Classroom](/help/en/education/google-classroom/setup-course.html)**
+![Crear clase](/help/assets/img/edu-es/nombra-tu-clase.png)
 
-![Elegir un nombre para vuestra clase](/help/assets/img/edu/create-class-landing.png)
+## 3. Añadir a tus estudiantes
 
+Una vez que creada la clase, podrás [agregar a tus estudiantes](/help/es-es/educacion/agregar-estudiantes.html). 
 
-Si utiliza el usuario de Google Classromm, [podéis seguir este tutoríal dedicado para eso](/help/en/education/google-classroom/setup-course.html).
+Ahora estás listo para llevar tus clases al próximo nivel. Descubre [aquí cómo crear maravillosas actividades para tus estudiantes](/help/es-es/educacion/tareas-y-actividades.html). 
 
 
-## 3. Invitar a vuestros alumnos a vuestra nueva clase
-
-Una vez que hayáis validado el nombre de vuestra clase, podráis invitar o agregar alumnos en ella.
-
-![Invitar a vuestros alumnos](/help/assets/img/edu/class-add-people-manual.png)
-
-Habíamos escrito un articulo dedicado a [todo lo que necesita saber sobre vuestras diferentes opciones para invitar alumnos a vuestra sala de clase, esta disponible ahí](/help/es-es/education/agrega-alumnos.html).
 
 
-### Cuál es el siguiente paso?
-
-Ahora que vuestra clase está llena de alumnos dispuestos aprender música, vamos a [dar más detalles sobre las diferentes actividades que podaís crear](/help/es-es/education/tareas-y-actividades.html).

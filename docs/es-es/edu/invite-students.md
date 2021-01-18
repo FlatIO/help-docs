@@ -1,14 +1,14 @@
 ---
-title: Agrega alamnos a su clase.
-description: Cubrimos todas las opciones para agregar alumnos a vuestra sala de clase, código, enlace directo y "sincronización con las tres".
+title: Agrega estudiantes a tu clase.
+description: Descubre las diferentes formas para añadir a tus estudiantes a tu clase en Flat para Educación. 
 nav: edu
 pid: invite-students
-permalink: es-es/education/agrega-alumnos.html
+permalink: es-es/educacion/agregar-estudiantes.html
 nexttext: Actividades y tareas.
-nexturl: es-es/education/tareas-y-actividades.html
+nexturl: es-es/educacion/tareas-y-actividades.html
 ---
 
-Antes de agregar alumnos asegúráis [correctamente de crear la clase siguiendo esta guía](/help/es-es/education/crear-una-nueva-clase.html).
+Antes de agregar a tus estudiantes asegúrate de haber [creado correctamente tu clase siguiendo esta guía](/help/es-es/educacion/crear-una-nueva-clase.html).
 
 En esta guía asumimos **que no dependeis de ningún sistema de gestión de clase**. Si utiliza alguno de los que vosotros enumeráis a continuación, podéis hacer vuestra vida mucho más fácilé
 * [Google Classroom](/help/en/education/google-classroom/)
