@@ -3,7 +3,7 @@ title: Agrega estudiantes a tu clase.
 description: Descubre las diferentes formas para añadir a tus estudiantes a tu clase en Flat para Educación. 
 nav: edu
 pid: invite-students
-permalink: es-es/education/agregar-estudiantes.html
+permalink: es-es/educacion/agregar-estudiantes.html
 nexttext: Actividades y tareas.
 nexturl: es-es/educacion/tareas-y-actividades.html
 ---
