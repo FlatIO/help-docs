@@ -1,6 +1,6 @@
 ---
 title: 課題やアクティビティの作成
-description: このページではFlat for Educationで作成できる様々な課題やアクティビティについて紹介します。
+description: 音楽学習プラットフォーム「Flat for Education」で作成できる様々な課題やアクティビティについて紹介します。
 nav: edu
 pid: activities
 permalink: ja/education/課題やアクティビティの作成.html
@@ -8,7 +8,8 @@ nexttext: 提出された課題を評価する
 nexturl: ja/education/課題を評価する.html
 ---
 
-Flat for Educationでは授業中のアクティビティや課題の作成ができます。
+Flat for Educationでは授業中のアクティビティや課題の作成が簡単にできます。
+小学校低学年から大学生まで、それぞれのレベルに適した課題を制作して頂けます。
 作成を始める前に[クラスの作成](/help/ja/education/クラスの作成.html)が完了しているか確認してください。
 
 ## 新規の課題を作成する
@@ -120,5 +121,5 @@ Google Classroomや他のLMSと同期している場合、Flatで行われた評
 
 ### 進行具合の確認と評価
 
-課題が公開されると生徒の取り組みが可能になり、各生徒の取り組みの進行具合も確認できます。提出された課題への評価やコメントについては[こちら](/help/ja/education/課題を評価する.html)をご覧ください。
+課題が公開されると生徒の取り組みが閲覧可能になり、各生徒の取り組み具合も確認できます。提出された課題への評価やコメントについては[こちら](/help/ja/education/課題を評価する.html)をご覧ください。
 
