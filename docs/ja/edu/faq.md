@@ -30,7 +30,7 @@ Flat for Educationについてのご質問がヘルプページで解決でき�
 * [FlatとFlat for Educationの違いは何ですか？](/help/ja/education/個人と教育版の違い.html)
 * [Flat for Education利用方法の研修はありますか？](/help/en/education/professional-development.html)
 * [すでにFlatアカウントを持っています。スクールアカウントを作成するにはどうしたら良いですか？](/help/en/education/convert-individual-account-education.html)
-* [Google classroomでFlatを利用する方法は?](/help/en/education/google-classroom/)
+* [Google classroomでFlatを利用する方法は?](/help/ja/education/google-classroom/index.html)
 * [Flatでクラスを作成する方法は？](/help/ja/education/クラスの作成.html)
 * [Flatに生徒を招待する方法は?](/help/ja/education/生徒をクラスに追加.html)
 * [課題やアクティビティの作成方法は？](/help/ja/education/課題やアクティビティの作成.html)
@@ -41,10 +41,10 @@ Flat for Educationについてのご質問がヘルプページで解決でき�
 
 ## 教育版ご利用プランについて
 
-* [無料で試す方法はありますか？](/help/en/education/free-trial.html)
-* [Flat for Educationの利用プランにはどんなものがありますか？](/help/en/education/plan.html)
-* [私の学校用に利用プランを購入するにはどうしたら良いですか？](/help/en/education/plan.html#how-can-i-purchase-a-plan-for-my-school)
-* [支払い方法は?](/help/en/education/plan.html#do-you-accept-purchase-orders-po)
+* [無料で試す方法はありますか？](/help/ja/education/free-trial.html)
+* [Flat for Educationの利用システムを教えてください。](/help/ja/education/plan.html)
+* [私の学校用に利用プランを購入するにはどうしたら良いですか？](/help/ja/education/plan.html#購入方法について)
+* [支払い方法は?](/help/ja/education/plan.html##購入方法について)
 {:.faqul}
 
 <!-- * [A user is marked as not active, what does that mean?]()

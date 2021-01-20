@@ -1,6 +1,6 @@
 ---
 title: Google Classroom - よくある質問
-ptitle: Google ClassroomでFlat for Educationを利用する際によく頂く質問をまとめました。不明な点がある場合はこちらのページを確認してください。
+ptitle: Google Classroomで音楽学習プラットフォーム「Flat for Education」を利用する際によく頂く質問をまとめました。不明な点がある場合はこちらのページを確認してください。
 nav: edu
 pid: gc-faq
 permalink: ja/education/google-classroom/よくある質問.html

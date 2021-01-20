@@ -1,14 +1,14 @@
 ---
 title: 生徒view：Google Classroomを利用したFlat
 ptitle: Google ClassroomでFlatを利用すると、生徒側にはどんなふうに表示されるのか見てみましょう。
-description: Google ClassroomでFlatを利用すると生徒の画面ではどのように表示されるのか、このページで確認してみましょう。
+description: Google ClassroomでFlatを利用すると生徒の画面にはどのように表示されるのか、このページで確認してみましょう。
 nav: edu
 pid: gc-student-experience
 permalink: ja/education/google-classroom/生徒view.html
 ---
 
 [課題の作成](/help/ja/education/google-classroom/課題の作成.html)は出来ましたか？
-このページでは、Flatを利用する際に生徒にはどのように表示されるのかを確認してみましょう。Google ClassroomとFlatのスムーズな連携で、とても簡単に操作できます。
+このページでは生徒が学校や家庭でFlatを利用する際に、どのように表示されるのかを確認します。Google ClassroomとFlatのスムーズな連携で、生徒も簡単に操作できます。
 
 ＊Google ClassroomのクラスがFlat for Educationと同期されても、課題が投稿されるか教員によってFlatへのリンクが共有されるまでは、生徒はFlat for Educationにアカウントが準備できていることを知ることができません。Google Classroomのストリームなどにアカウントの作成完了が通知されることもありません。
 また、Flatから生徒に対してアカウント完成の通知や広告メッセージを送ることも一切ありません。
@@ -20,7 +20,7 @@ permalink: ja/education/google-classroom/生徒view.html
 
 * **クラスに課題を投稿する**…教員によって課題が投稿されるとGoogle Classroomに表示され、それをクリックするだけで生徒はFlatのページへ移動することができます。ログインすると直接、課題の取り組み画面が開かれます。
 <br>
-* **Flat for Educationのウェブサイトから直接ログインする**…Google Classroomのクラスとの同期が完了している場合、生徒はFlat for EducationのウェブサイトでGoogleアカウントを使用してログインすることでクラスに参加することができます。
+* **Flat for Educationのウェブサイトから直接ログインする**…Google Classroomのクラスとの同期が完了している場合、生徒はFlat for EducationのウェブサイトへGoogleアカウントでログインすることでクラスに参加することができます。
 <br>
 * **スクールページのリンクを共有する**…スクールページのリンク(例：https://[my-school].flat.io)を生徒と共有してFlatを利用開始することもできます。
 <br>
