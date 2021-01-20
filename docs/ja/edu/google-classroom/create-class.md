@@ -1,6 +1,6 @@
 ---
 title: クラスをFlatで利用
-description: Flat for Educationを利用開始したら、まずはGoogle ClassroomのクラスをFlatでも利用できるようにしましょう。簡単にクラスを自動同期できます。
+description: Flat for Educationを利用開始したら、まずはGoogle Classroomに既存のクラスをFlatでも利用できるようにしましょう。簡単にクラスを同期できます。
 nav: edu
 pid: gc-setup-course
 permalink: ja/education/google-classroom/クラスをFlatで利用.html
