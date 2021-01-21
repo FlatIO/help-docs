@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 ruby RUBY_VERSION
 
-gem 'jekyll', '~> 3.6'
+gem 'jekyll', '~> 4.2'
 gem 'therubyracer'
 gem 'nokogiri', '>= 1.11.0.rc4'
 gem 'kramdown', '>= 2.3.0'
