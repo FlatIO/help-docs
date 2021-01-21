@@ -1,21 +1,26 @@
 ---
-title: マイライブラリ
-ptitle: マイライブラリ - あなたの楽曲を管理
-description: 私達のライブラリダッシュボードでは、Flat上で見つけたり、ご自身で作成されたスコアやタブ譜を管理する事ができます。
+title: MYライブラリ
+ptitle: MYライブラリ - あなたのスコアを管理
+description: ライブラリではFlat上で作成された曲を見つけたり、ご自身で作成された楽譜やコード譜を管理する事ができます。
 nav: general
 pid: my-library
 permalink: ja/general/my-library.html
 ---
 
-*[ライブラリ](https://flat.io/my-library)* ダッシュボードでは、Flat上で見つけ、またはシェア、インポート、作成した楽譜を管理する事ができます。この場所を活用する利点をご確認ください。
+*[ライブラリ](https://flat.io/my-library)* では、Flat上で作成された曲を聞いてシェアしたり、作成した曲をインポートして管理する事ができます。
+詳しい利用方法をみてみましょう。
+
+<br>
 
 ## オンライン上で新しい楽譜を作成
 
-あなたのFlatのライブラリからタブ譜や楽譜を簡単に作成できます。あなたのコレクション内の**新規スコア・タブ譜** ボタンをクリックして、タイトルと楽器を選びましょう。
+Flatのライブラリから楽譜やタブ譜を簡単に作成できます。コレクション内の**新規スコア・タブ譜** ボタンをクリックして、タイトルと楽器を選びましょう。
 
 [![新規スコア作成 (マイライブラリ)](/help/assets/img/library/newscore-btn.png)](https://flat.io/my-library?m=newscore)
 
-Flatを使ってオンラインでスコアやタブ譜を作成する方法については、各チュートリアルをご覧ください。 *[あなたの最初のスコアを作成する](/help/ja/music-notation-software/create-your-first-music-score.html)*.
+Flatを使ってオンラインでスコアやタブ譜を作成する方法については、各チュートリアルをご覧ください。 *[あなたの最初のスコアを作成する](/help/ja/music-notation-software/create-your-first-music-score.html)*。
+
+<br>
 
 ## あなたの既存の楽譜をインポート・アップロード
 

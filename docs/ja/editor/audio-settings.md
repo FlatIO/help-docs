@@ -6,7 +6,7 @@ pid: audio-settings
 permalink: ja/music-notation-software/audio-settings.html
 ---
 
-スコアのオーディオ設定で、各楽器のリバーブや音量レベルを変更する事ができます。
+オーディオ設定から、各楽器のリバーブや音量レベルを変更する事ができます。
 
 ## スコアとオーディオ設定
 
