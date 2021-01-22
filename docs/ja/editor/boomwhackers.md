@@ -1,6 +1,6 @@
 ---
 ptitle: あなたの楽譜でBoomwhackers色を自動的に使用する
-description: 音符の自動配色を利用可能にします。FlatはBoomwhackers色を使用して各ピッチによって音符に色付けする事ができます。 
+description: 音符の自動配色を利用可能にします。FlatはBoomwhackers色を使用してそれぞれの音高にによって音符に色付けする事ができます。 
 title: 自動でBoomwhacker色を使用する
 nav: editor
 pid: boomwhacker-color
