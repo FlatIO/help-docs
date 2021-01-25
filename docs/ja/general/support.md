@@ -1,6 +1,6 @@
 ---
-title: ヘルプ・サポートについて
-ptitle: Flatのヘルプやサポートについて
+title: ご質問やご要望について
+ptitle: Flatに関するご質問やご要望について
 description: FlatやFlat for Educationの使い方に関してご質問がありますか？こちらのページをご確認ください。
 nav: general
 pid: support
@@ -8,12 +8,12 @@ copyright: true
 permalink: ja/general/サポート.html
 ---
 
-Flatの使い方に関してヘルプが必要ですか？それぞれの情報とサポート連絡先をご確認ください。
+Flatの使い方に関してサポートが必要ですか？それぞれの情報と連絡先をご確認ください。
 
 ## 説明資料が必要ですか？
 
 こちらのページでは、[Flat](https://flat.io/ja) と [Flat for Education](https://flat.io/ja/edu) の設定方法や使い方についてご紹介しています。
-[ウェブサイト上の説明資料]({{site.baseurl}}/)内の情報もご確認ください。
+[ヘルプページ]({{site.baseurl}}/)の情報もご確認ください。
 
 その他の情報については[ブログ](https://blog.flat.io) や [YouTubeチャンネル](https://www.youtube.com/flat-io)でご確認頂けます。
 
@@ -23,7 +23,7 @@ Flatは資料やコンテンツの追加に常に取り組んでおります。�
 
 ## Flatのご利用に関してご質問はありませんか？
 
- [チャット](/help/support) や [Eメール](mailto:hello@flat.io) でお客様サポートを提供しております。できるだけ早く回答できるよう努めておりますので、製品に関するご質問についてはお気軽にお問合せください。
+ [チャット](/help/support) や [メール](mailto:hello@flat.io) でお客様サポートを提供しております。できるだけ早く回答できるよう努めておりますので、製品に関するご質問についてはお気軽にお問合せください。
 
 **Flat for Education**: サポートが必要な場合はメールやチャットでお問合せください。Flatのサポート ([edu@flat.io](mailto:edu@flat.io)) へご連絡頂ければ、迅速に対応させて頂きます。
 
