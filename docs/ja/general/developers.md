@@ -1,7 +1,7 @@
 ---
 title: Flat APIs と 埋め込み
 ptitle: あなたのウェブサイトに楽譜を埋め込み、APIを使用する
-description: "Flat は 現在の所2,000,000 以上の作曲家や音楽家が利用しています。あなたのプロジェクト内で利用可能な無料のAPIの情報をご確認ください。楽譜の見せ方や共有等に便利です。"
+description: "Flat は 現在の所3,000,000 以上の作曲家や音楽家が利用しています。あなたのプロジェクト内で利用可能な無料のAPIの情報をご確認ください。楽譜の見せ方や共有等に便利です。"
 nav: general
 pid: dev
 permalink: ja/general/developers-api-embed.html
