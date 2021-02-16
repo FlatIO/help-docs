@@ -2,6 +2,7 @@
 title: 移調
 ptitle: スコアの移調
 description: Flatを利用すれば、楽譜の移調もとても簡単に行うことができます。
+nav: editor
 pid: transpose
 permalink: ja/music-notation-software/transpose.html
 action.transpose: true
