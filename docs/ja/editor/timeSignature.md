@@ -1,42 +1,48 @@
 ---
-title: Add or change a new time signature
-description: In the measure mode, select the first measure that will get the new time signature, then click on the time signature tool and choose the desired one. Optionally you can choose a common time symbol instead of 4/4 and a cut time symbol instead of 2/2.
+title: 拍子記号の入力
+description: 楽譜に拍子記号を入力する方法をご紹介します。拍子記号は「小節」ツールバーから入力・変更することができます。
 nav: editor
 pid: timesig
-permalink: en/music-notation-software/timesig.html
+permalink: ja/music-notation-software/timesig.html
 action.timeSignature: true
 action.setTimeSignature: true
 action.customizeTimeSignature: true
 action.removeTimeSignatureAtSelected: true
 ---
 
-## Summary
+## 概要
 
-| Feature | Toolbar | Icon |
+| 機能 | ツールバー | アイコン |
 |:--------|:--------|:-----|
-| Time Signature | **Measure** | ![Time Signature](https://prod.flat-cdn.com/img/icons/editorActions/timeSignature.svg){:.tb} |
+| 拍子記号 | **小節** | ![Time Signature](https://prod.flat-cdn.com/img/icons/editorActions/timeSignature.svg){:.tb} |
 {:.feat}
 
-## Add a new time signature
+## 拍子記号を入力する
 
-You can add a new time signature by going to the **"Measure" toolbar**, clicking on the **Time Signature tool and choosing the new one**. If there is no range selection, the new time signature will be applied until the next time or the end of the score. If you only want to change the time on specific measures, make a range selection of the measures before choosing the new time signature.
+拍子記号は「**小節**」ツールバーの「**拍子記号**」ボタンをクリックします。
+<br>拍子の選択肢が表示されるので、お好みの拍子を選択してください。
+<br>
+<br>適用範囲が選択されている場合は、選択された範囲にのみ選択した拍子が反映されます。範囲が選択されていない場合は、入力した小節から最後の小節まで適用されます。
+<br>お好みの拍子が選択肢にない場合は「**カスタマイズ**」をクリックして、ご希望の拍子を設定してください。
 
-To set a time signature that is not listed in the suggestions, click on **Customize**. Suggestions include the most used time signatures and the one you recently used.
+![拍子を入力](/help/assets/img/editor-ja/time.png)
 
-![Add a new tie signature](/help/assets/img/editor/time.png)
+<br>
 
-## Change an existing time signature
+## 拍子記号を変更する
 
-You can change an existing time signature by clicking on the time signature and choosing the new one or using the tool available in the "Measure" toolbar.
+既に設定された拍子記号を変更する場合は、拍子記号をクリックして新しい拍子記号を選択してください。
 
-![Change a time signature](/help/assets/img/editor/time-change.png)
+![拍子記号の変更](/help/assets/img/editor-ja/time-change.png)
 
-## Pickup (Anacrusis)
+<br>
 
-You can add a pickup measure by changing the time signature, choosing **Customize**, then setting the duration of the pickup.
+## 弱起（アウフタクト）
 
-For example, a 4/4 measure with a 1/4 pickup (real duration of the measure):
+弱起の入力も、「**拍子記号**」のボタンから設定できます。
+<br>「**拍子記号**」ボタンをクリックして、「**カスタマイズ**」を選択します。
+<br>「**弱起**」の欄の拍子を調整して、保存ボタンを押して確定します。
 
-![Pickup measure](/help/assets/img/editor/time-pickup.png)
+![弱起](/help/assets/img/editor-ja/time-pickup.png)
 
-If you want to shift the measures numbers to skip the anacrusis, [you can do that in the layout settings](/help/en/music-notation-software/layout-measures-numbers.html).
+小節番号を弱起後から開始したい場合は、[レイアウト設定](/help/en/music-notation-software/layout-measures-numbers.html)から設定してください。
