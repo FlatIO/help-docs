@@ -18,12 +18,12 @@ action.hideTempoMarks: true
 | テンポ | **小節** | ![Tempo marks](https://prod.flat-cdn.com/img/icons/editorActions/tempo.svg){:.tb} |
 {:.feat}
 
-* [テンポ(BPM)の設定](#how-to-add-a-new-tempo-mark-bpm)
-* [テンポの変更](#how-to-change-an-existing-tempo-mark)
-* [テンポの削除](#how-to-remove-a-tempo-mark)
-* [拍の単位を変更](#how-to-change-to-beat-unit)
-* [テンポと速度記号の確認](#how-to-get-an-audio-preview-of-the-tempo-or-see-the-textual-equivalences-of-the-numeric-values)
-* [速度記号の入力](#how-to-add-a-textual-tempo-mark)
+* [テンポ(BPM)の設定](#テンポbpmの設定)
+* [テンポの変更](#テンポの変更)
+* [テンポの削除](#テンポの削除)
+* [拍の単位を変更](#拍の単位を変更)
+* [テンポと速度記号の確認](#テンポと速度記号の確認)
+* [速度記号の入力](#速度記号の入力)
 
 ## テンポ(BPM)の設定
 
