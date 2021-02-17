@@ -31,6 +31,6 @@ nexttext: 音符の入力
 
 ![調号を設定する](/help/assets/img/editor-ja/key.png)
 
-調号の設定については[こちらのヘルプページ](/help//music-notation-software/keysig.html)でさらに詳しく説明しています。
+調号の設定については[こちらのヘルプページ](/help/ja/music-notation-software/keysig.html)でさらに詳しく説明しています。
 
 これで拍子記号と調号の設定ができました。次は[音符の入力](/help/ja/music-notation-software/音符の入力.html)を確認しましょう。
