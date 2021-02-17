@@ -1,10 +1,10 @@
 ---
-title: Tempo marks
-ptitle: Add, change or remove Tempo marks
-description: Select where you want to add the new mark, click on the tempo mark tool in the "Measure" toolbar and choose the new tempo.
+title: テンポ
+ptitle: テンポの変更
+description: テンポを変更する方法をご紹介します。「小節」ツールバーの「テンポ」ボタンから設定することができます。
 nav: editor
 pid: addtempo
-permalink: en/music-notation-software/addtempo.html
+permalink: ja/music-notation-software/addtempo.html
 action.tempo: true
 action.setTempo: true
 action.showTempoMarks: true
@@ -13,46 +13,59 @@ action.hideTempoMarks: true
 
 ## Summary
 
-| Feature | Toolbar | Icon |
+| 機能 | ツールバー | アイコン |
 |:--------|:--------|:-----|
-| Tempo marks | **Measure** | ![Tempo marks](https://prod.flat-cdn.com/img/icons/editorActions/tempo.svg){:.tb} |
+| テンポ | **小節** | ![Tempo marks](https://prod.flat-cdn.com/img/icons/editorActions/tempo.svg){:.tb} |
 {:.feat}
 
-* [How to add a new tempo mark?](#how-to-add-a-new-tempo-mark-bpm)
-* [How to change an existing tempo mark?](#how-to-change-an-existing-tempo-mark)
-* [How to remove tempo mark?](#how-to-remove-a-tempo-mark)
-* [How to change to beat unit?](#how-to-change-to-beat-unit)
-* [How to get an audio preview of the tempo, or see the textual equivalences of the numeric values?](#how-to-get-an-audio-preview-of-the-tempo-or-see-the-textual-equivalences-of-the-numeric-values)
-* [How to add a textual tempo mark?](#how-to-add-a-textual-tempo-mark)
+* [テンポ(BPM)の設定](#how-to-add-a-new-tempo-mark-bpm)
+* [テンポの変更](#how-to-change-an-existing-tempo-mark)
+* [テンポの削除](#how-to-remove-a-tempo-mark)
+* [拍の単位を変更](#how-to-change-to-beat-unit)
+* [テンポと速度記号の確認](#how-to-get-an-audio-preview-of-the-tempo-or-see-the-textual-equivalences-of-the-numeric-values)
+* [速度記号の入力](#how-to-add-a-textual-tempo-mark)
 
-## How to add a new tempo mark (BPM)?
+## テンポ(BPM)の設定
 
-You can add a new tempo mark by going to the **"Measure" toolbar**, clicking on the **Tempo tool and input the new tempo**. If there is no selection, the new tempo will be applied until the next tempo mark or the end of the score. If you only want to change the tempo on multiple measures, select the measure before inputting the new tempo.
+テンポを変更するには、まず「**小節**」ツールバーの「**テンポ**」ボタンをクリックします。
+<br>お好みのテンポ数を入力して、保存ボタンを押して確定してください。
 
-![Add a new tempo mark](/help/assets/img/editor/tempo.png)
+<br>適用範囲が選択されている場合は、選択された範囲にのみ選択したテンポが反映されます。範囲が選択されていない場合は、入力した小節から最後の小節まで適用されます。
 
-## How to change an existing tempo mark?
+![テンポの入力](/help/assets/img/editor-ja/tempo.png)
 
-You can change an existing tempo mark by clicking on the mark and inputting the new tempo, or using the tool available in the "Measure" toolbar.
+<br>
 
-![Changing a tempo mark](/help/assets/img/editor/tempo-change.png)
+## テンポの変更
 
-## How to remove a tempo mark?
+既に設定されたテンポを変更する場合は、テンポマークをクリックして新しいテンポを選択してください。
 
-To remove a tempo mark, click on the mark, then click on the delete icon in the toolbar.
+![テンポの変更](/help/assets/img/editor-ja/tempo-change.png)
 
-## How to change to beat unit?
+<br>
 
-You can change the beat unit by clicking on the existing beat unit and choosing the new one:
+## テンポの削除
 
-![Changing the beat unit](/help/assets/img/editor/tempo-beat-unit.gif)
+設定したテンポを削除する場合は、一度テンポマークをクリックしてからツールバーにある削除ボタンをクリックしてください。
 
-## How to get an audio preview of the tempo, or see the textual equivalences of the numeric values?
+<br>
 
-When you insert or change a tempo mark, click on the audio button in the popover. This will display the complete interface will the textual tempo marks and play a preview of the new tempo with our metronome.
+## 拍の単位を変更
 
-![Advanced tempo interface](/help/assets/img/editor/tempo-advanced.gif)
+拍の単位を変更するには、テンポ数の左に表示されている音符をクリックしてご希望の単位を選択してください。
 
-## How to add a textual tempo mark?
+![拍の単位を変更](/help/assets/img/editor-ja/tempo-beat-unit.gif)
 
-Want to add a textual tempo notation instead of a numeric value? At this time, you can use an *Expression* text to write on your score. Go to the *Text* toolbar and choose *Expression/Annotation*.
+<br>
+
+## テンポと速度記号の確認
+
+テンポの入力や変更を行う際、保存ボタン横の**スピーカーマーク**をクリックするとテンポの速度と速度記号を確認することができます。
+
+![テンポと速度記号の確認](/help/assets/img/editor-ja/tempo-advanced.gif)
+
+<br>
+
+## 速度記号の入力
+
+楽譜上にテンポ数ではなく、速度記号を入力したい場合は「**テキスト**」ツールバーの「**アノテーション**」から入力して下さい。
