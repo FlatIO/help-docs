@@ -22,7 +22,7 @@ nexttext: 音符の入力
 
 ![拍子記号を小節ツールバーから変更する](/help/assets/img/editor-ja/time-change-toolbar.png)
 
-拍子記号の設定については [こちら](/help/en/music-notation-software/timesig.html)のヘルプページでさらに詳しく説明しています。
+拍子記号の設定については [こちら](/help/ja/music-notation-software/timesig.html)のヘルプページでさらに詳しく説明しています。
 <br>
 
 ## 調号を設定する
@@ -31,6 +31,6 @@ nexttext: 音符の入力
 
 ![調号を設定する](/help/assets/img/editor-ja/key.png)
 
-調号の設定については[こちらのヘルプページ](/help/en/music-notation-software/keysig.html)でさらに詳しく説明しています。
+調号の設定については[こちらのヘルプページ](/help/ja/music-notation-software/keysig.html)でさらに詳しく説明しています。
 
 これで拍子記号と調号の設定ができました。次は[音符の入力](/help/ja/music-notation-software/音符の入力.html)を確認しましょう。
