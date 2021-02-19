@@ -50,7 +50,7 @@ Flatでは、歌詞機能を利用することで譜表の下に歌詞を入力�
 母音が複数の音符にまたがる場合は、アンダースコア「_」でメリスマを入力することができます。
 <br>初めの音符に歌詞を入力したら、「_」を入力します。その後はメリスマを入力したい音符毎に、「-」を入力してくださ。
 
-![メリスマの入力]](/help/assets/img/editor-ja/lyrics-melisma.gif)
+![メリスマの入力](/help/assets/img/editor-ja/lyrics-melisma.gif)
 
 <br>
 
