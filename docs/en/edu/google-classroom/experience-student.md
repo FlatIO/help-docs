@@ -39,4 +39,4 @@ Once your students complete the assignment, they will have a "*Turn in*" button 
 
 ![Turn in Button](/help/assets/img/edu/editor-title-turnin.png?0)
 
-![Turn in Dialog](/help/assets/img/edu/editor-dialog-turnin.png?0)
+![Turn in Dialog](/help/assets/img/edu/class-student-editor-turnin-default.png)
