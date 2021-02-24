@@ -1,32 +1,29 @@
 ---
-title: Music Fonts
+title: 音楽用フォント
 nav: editor
 pid: music-fonts
-permalink: en/music-notation-software/music-font-smufl.html
+permalink: ja/music-notation-software/music-font-smufl.html
 
 action.setMusicFont: true
 ---
 
-Flat includes two different music fonts that can be used to display your sheet music: Classical and Jazz/Handwritten. 
+Flatでは、楽譜の表記に使用するフォントを「**標準フォント**」と「**Jazz/手書きフォント**」から選択することができます。
 
-To customize the music font used in your score, **open the Layout Settings, next to the print button**.
-
-On our desktop web app, this is usually located on the right of your screen, or in the "Document" toolbar. On our mobile app, click on the edit button on the top of your screen.
+楽譜表記のフォントを変更するには、編集画面右上にある「**レイアウト設定**」をクリックしてください。
+iOSアプリをご利用の場合は、編集画面左上のペンのマークをタッチしてください。
 
 ![Layout settings button](/help/assets/img/editor/toolbar-print-layout.png)
 
-## Choose the music font
+## 楽譜フォントを選択する
 
-In the *Layout settings*, scroll to *Music font* and choose the font you want to use for your sheet music.
+ **レイアウト設定**のボタンをクリックすると、「**レイアウトとスタイル**」のページが開きます。
+ <br>「**音楽用フォント**」という箇所があるので、楽譜の表記に利用したいフォントを選択してください。
 
-![Changing the music font](/help/assets/img/editor/music-font.gif)
+![音楽用フォントの変更](/help/assets/img/editor-ja/music-font.gif)
 
-At this time, two music fonts are available: the default and classic one (Bravura) and a Jazz style (Petaluma):
+現在利用できるフォントは「**標準フォント**」と「**Jazz/手書きフォント**」です。
+* 標準フォント
+![標準フォント](/help/assets/img/editor-ja/classic-font.png)
 
-![Fonts](/help/assets/img/editor/music-font-intro.png){:.noBorder}
-
-## Implementation notes
-
-[In 2015](https://blog.flat.io/smufl-and-new-music-font-on-flat/) we implemented [SMuFL](https://www.smufl.org/) (Standard Music Font Layout) in our music engraving engine and started using Bravura, a classic font developed by Steinberg and relesed under the [SIL Open Font License](/help/licenses/fonts-Bravura.txt).
-
-In [February 2019 we added Petaluma to Flat](https://blog.flat.io/new-music-font/), a Handwritten music font, also developed and open sourced by Steinberg under the [SIL Open Font License](/help/licenses/fonts-Petaluma.txt).
+*Jazz/手書きフォント
+![Jazzフォント](/help/assets/img/editor-ja/jazz-font.png)
