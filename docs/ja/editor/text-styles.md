@@ -1,59 +1,48 @@
 ---
-title: Text styles
+title: テキストスタイル
 nav: editor
 pid: text-styles
-permalink: en/music-notation-software/text-styles.html
+permalink: ja/music-notation-software/text-styles.html
 
 action.setTextFont: true
 action.setAllTextFonts: true
 ---
 
-Flat lets you customize the styles of the different text elements in your scores. To customize the text styles used in your score, **open the Layout Settings, next to the print button**.
-
-On our desktop web app, this is usually located on the right of your screen, or in the "Document" toolbar. On our mobile app, click on the edit button on the top of your screen.
+Flatでは、楽器名や歌詞などを様々なテキストスタイルで表示させることができます。テキストスタイルをカスタマイズするには、編集画面右上にある「**レイアウト設定**」のボタンをクリックしてください。
+iOSアプリをご利用の場合には、編集画面左上のペンマークをタッチしてください。
 
 ![Layout settings button](/help/assets/img/editor/toolbar-print-layout.png)
 
-## Changing the default font family
+<br>
 
-In the *Layout settings*, scroll to *Text styles*. From there, you can set the default font family used for all the texts in your score.
+## デフォルトのフォントを変更する
 
-![Changing the default text font](/help/assets/img/editor/text-font.gif)
+「**レイアウト設定**」のボタンをクリックすると「**レイアウトとスタイル**」のページが開きます。
+<br>「**テキストスタイル**」という箇所があるので、「**標準のフォント**」にお好みのフォントを選択します。
+<br>こちらで設定したフォントがデフォルトで使用されます。
 
-## Adjusting specific texts styles
+![デフォルトのフォントを変更](/help/assets/img/editor-ja/text-font.gif)
 
-You can also change the **font family for specific text types** (e.g. only the title of the score), and also adjust the **weight** (i.e. bold), **style** (i.e. italic) and the **size** of the font.
+<br>
 
-![List of text types](/help/assets/img/editor/text-font-specific-list.png)
+## 指定のテキストにフォントを設定する
 
-For every specific text type, you can adjust the settings:
+楽譜のタイトルや歌詞など、特定のテキストにフォントを設定することもできます。
+<br>**太線**、**イタリック**、**フォントサイズ**などもお好みに合わせて調節してみましょう。
 
-![List of text types](/help/assets/img/editor/text-font-specific-config.png){:.noBorder}
+![テキストのリスト](/help/assets/img/editor-ja/text-font-specific-list.png)
 
-## About font sizes
+「**指定のテキストタイプにフォントスタイルを変更**」をクリックすると変更できるテキストの種類が表示されます。
+<br>変更したいテキストをクリックして、それぞれに希望のフォントを設定しましょう。
 
-The **sizes** of the different texts can be set in two different units: **points** and **staff space**:
+![フォントを設定](/help/assets/img/editor-ja/text-font-specific-config.png)
 
-* **Points (pt)** is an **absolute unit** that you usually find in text editors. By default, we use this unit for text elements like the *title* and the *subtitle* that are not directly linked to your staves.
-* **Staff space (sp)** is a **relative unit** to your music staves, literally the space between two lines of the stave. By default, we use this unit for text elements that are linked to the staves, like *lyrics* and *chords*.
+<br>
 
-## Fonts Library
+## フォントサイズ
 
-Most of the fonts provided on Flat are Open Source fonts that are directly served by [Google Fonts](https://fonts.google.com/).
+**フォントサイズ**は「**pt**」と「**譜表間隔**」を単位として変更することができます。
 
-We also provided the following Open Source fonts on Flat. Some of them are alternatives and metric-compatible fonts from proprietary fonts.
+* **pt（ポイント）**は、通常のテキストエディタなどでも使用される単位です。Flatでは、譜表に直接関係しない**タイトル**などはデフォルトとしてこの単位を設定しています。
+* **譜表間隔**は、楽譜の線と線の間隔を元にした単位です。譜表に関連するテキスト、**コード**や**歌詞**などはデフォルトでこの単位が設定されています。
 
-| Font Family | License | Alternative to |
-|:------------|:--------|:--------------|
-| Nimbus Roman | [SIL Open Font License](/help/licenses/fonts-URW-Core35.txt) | Times New Roman |
-| Nimbus Sans | [SIL Open Font License](/help/licenses/fonts-URW-Core35.txt) | Helvetica |
-| Nimbus Mono | [SIL Open Font License](/help/licenses/fonts-URW-Core35.txt) | Courier/Courier New |
-| URW Gothic | [SIL Open Font License](/help/licenses/fonts-URW-Core35.txt) | Century Gothic | 
-| URW Century Schoolbook L | [GNU GPL v2](/help/licenses/fonts-URW-Century.txt) | Century Schoolbook |
-| Petaluma Script | [SIL Open Font License](/help/licenses/fonts-Petaluma.txt) | - |
-
-## Implementation notes: Default fonts
-
-Before March 2018, the default font was [**Noto Serif**](https://fonts.google.com/specimen/Noto+Serif). This default font has been changed on March 2018, and the new one is now **URW Century Schoolbook L** (licensed under GNU GPL v2). The Noto Serif font remains available in the list of font families.
-
-When using [the music font **Petaluma**](/help/en/music-notation-software/music-font-smufl.html), the default font will automatically be set to **Petaluma Script**.
