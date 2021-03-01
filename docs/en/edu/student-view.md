@@ -77,7 +77,7 @@ Once the student has turned in the assignment, he/she will be able to edit it an
 
 ## View as student
 
-On an assignment page, you have a "**View as student**" button that allows you to get a testing student in 1-click. Click on it to view the current assignment with a testing student account. Your test account is a full Flat for Education account. With this one you can use the editor, open and turn in assignments, answering worksheets, send test grades, etc.
+On an assignment page, you have a "**View as student**" button that allows you to get a testing student in 1-click. Use it to view the current assignment with a testing student account. Your test account is a full Flat for Education account. With this one you can use the editor, open and turn in assignments, answering worksheets, send test grades, etc.
 
 This feature is perfect if you want to see how your students will experience Flat for Education, how the editor will be displayed if you use [some customized toolsets](/help/en/education/toolset.html) or [locked score template](/help/en/education/templates.html#locking-template) or try a [generated worksheet](/help/en/education/worksheet.html).
 
