@@ -41,3 +41,4 @@ If you just enable the articulations and dynamics, you can create an assignment 
 
 ![Articulations & Dynamics](/help/assets/img/edu/expression-toolset.png)
 
+**To experiment your custom toolsets using a testing student account, [you can use the "View as student" feature](/help/en/education/student-view.html#view-as-student).**
