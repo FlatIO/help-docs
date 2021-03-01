@@ -24,6 +24,8 @@ When clicking on an assignment link, you have access to the assignment details a
 
 From this page you can also add grades to your students' work. If your assignment [has been posted to Google Classroom](/help/en/education/google-classroom/) or an LMS like [Canvas](/help/en/education/canvas-lms/), Schoology, MusicFirst or Moodle, **grades are automatically added to your LMS gradebook** and synchronized with your LMS. 
 
+From the assignment page (cf. screenshot above), you can also export all your students' grades as a **Microsoft Excel spreadsheet** or a **CSV spreadsheet**.
+
 ![Review submissions](/help/assets/img/edu/assignment-review-inline-comment.png)
 
 Once you reviewed a student's work, click on "**Return**" to send back your feedback.
