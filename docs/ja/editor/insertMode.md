@@ -13,23 +13,32 @@ action.toggleInsertMode: true
 | ショートカット | <span class="kb-container"><span class="kb">I</span></span> |
 {:.feat}
 
+<br>
 
 通常モードの場合、音符を入力するとそれ以降の音符に上書きされます。同じように、音符を削除するとその分の休符が小節内に追加されます。
 
 ![通常モード](/help/assets/img/editor-ja/replaceMode.gif)
+
+<br>
 
 挿入モードを利用すると、入力された音符の分だけそれ以降の内容が右にずれます。
 <br>音符を削除するとそれ以降の内容は左にずれます。
 
 ![挿入モード](/help/assets/img/editor-ja/insertMode.gif)
 
+<br>
+
 挿入モードを利用中は、青く示されている音符や休符を変更することはできません。
 <br>音の長さを変更すると、青い部分ではなく挿入される音符や休符の長さが変更されます。 
 
 ![挿入モードと音の長さ](/help/assets/img/editor-ja/insertMode-duration.gif)
 
+<br>
+
 同様に、臨時記号を設定すると挿入される音符に反映されます。 
 ![挿入モードと臨時記号](/help/assets/img/editor-ja/insertMode-accidental.gif)
+
+<br>
 
 音程のない楽器の楽譜を作成している場合も、挿入する音符の符頭を選択することができます。
 ![挿入モードと無音程楽器](/help/assets/img/editor-ja/insertMode-notehead.gif)
