@@ -49,3 +49,4 @@ In order to provide our service in the best conditions, we use the following sub
 | Stripe, Inc. | Payment provider | We use Stripe to process payments on the platform. |
 | PayPal Holdings, Inc. | Payment Provider | We use Paypal to process payments on the platform. |
 | Xero (UK) Ltd. | SaaS provider | We use Xero for the accounting and invoicing of our company. |
+| Twilio Inc. | PaaS Provider | We use Twilio to send accounts verification SMS to organization admins. |
