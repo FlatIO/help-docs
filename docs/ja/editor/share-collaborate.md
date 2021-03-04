@@ -7,8 +7,8 @@ permalink: ja/music-notation-software/share-collaborate.html
 ---
 
 Flatでは友人やグループで楽譜を共有したり、共有した楽譜をリアルタイムで共同編集することができます。
-<br>まずは作成した楽譜の[プライバシーレベル](#privacy-levels--sharing-mode)を設定し、次に[共同編集者を招待](#collaborate-or-share-a-score-with-someone)しましょう。
-<br>作成した楽譜は[Flat上で公開](#publish-your-score-on-flat)したり、[他のウェブサイトに埋め込み](#embed-your-score-on-another-website)したりすることも出来ます。
+<br>まずは作成した楽譜の[プライバシーレベル](#プライバシーレベルと共有設定)を設定し、次に[共同編集者を招待](#楽譜の共有と共同編集)しましょう。
+<br>作成した楽譜は[Flat上で公開](#Flat上でスコアを公開する)したり、[他のウェブサイトに埋め込み](#他のウェブサイトに埋め込む)したりすることも出来ます。
 
 楽譜の共有設定は「**MYライブラリ**」や編集画面上で変更することができます。
 
@@ -29,7 +29,7 @@ Flatでは友人やグループで楽譜を共有したり、共有した楽譜�
 
 ![共同編集](/help/assets/img/editor-ja/sharing-mode-addcollab.png)
 
-<ja>
+<br>
 
 ## プライバシーレベルと共有設定
 
