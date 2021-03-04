@@ -1,48 +1,60 @@
 ---
-title: Inline comments
-ptitle: Inline comments to give contextualized feedback on sheet music
-description: Use inline comments to improve your collaboration workflow with Flat when working on music composition or arrangements.
+title: インラインコメント
+ptitle: インラインコメント機能は、楽譜上の特定の部分を選択してコメントを行うことができる機能です。
+description: インラインとコメント機能を利用すると、楽譜上の特定の部分を選択してコメントを入力することができます。作曲や編曲で共同編集する際に利用すると他の編集者とスムーズにコミュニケーションをとることができます。
 nav: editor
 pid: inline-comments
-permalink: en/music-notation-software/inline-comments.html
+permalink: ja/music-notation-software/inline-comments.html
 ---
 
-Inline comments are a powerful tool to **easily give contextualized feedback** on Flat's sheet music. They work in real-time across devices, and can even be used as simple reminders for your own work.
+インラインコメントを使用することで、**楽譜上の特定の箇所を相手に示しながらコメントでやり取り**することが出来ます。
+<br>コメントはリアルタイムで相手に反映され、自分へのメモとして利用することも出来ます。
 
-## Some use cases
+<br>
 
-Here are some use cases and examples when you can use inline comments.
+## 使用例
 
-As a teacher:
+インラインコメント機能の使用例をまとめてみました。ご参考にしてください。
 
-* Give live feedback with some context to your students during an assignment
-* Tag students at a precise point in the correction of an assignment
-* Give your students details of the evaluation grid directly on the music score
+教員・講師としてご利用の場合：
 
-As an individual composer/arranger:
+* 楽譜上で課題に関する具体的な添削やアドバイスを行いたい場合。
+* 評価理由を楽譜上に示して説明したい場合。
+* 鑑賞ポイントや曲想に関して、楽譜上で直接示しながら説明したい場合。
 
-* Add a memo to a precise point you want to edit in your sheet music or tab
-* Tag your friends/collaborators you previously invited for feedback/edits in a music score
-* Share your approach and give details on the way you worked on a composition or arrangement
+個人で利用の場合：
 
-## How to add inline comments?
+* 特定箇所を楽譜・タブ譜上で示しながら、演奏ポイントやメモを記録しておきたい場合。
+* 楽譜上で共同編集者に具体的に指摘しながら、フィードバックのやりとりや編集を行いたい場合。
+* 楽譜上の具体的な例を示しながら、作曲や編曲の方法をシェアしたい場合。
 
-To add an inline comment, select one or multiple notes, then click on the comment icon next to the selection. A popover will be displayed on the score where you can add your comment.
+<br>
 
-![Add an inline comment](/help/assets/img/editor/inlineCommentAdd.gif)
+## インラインコメント機能の使い方
 
-**Tip**: You can insert new lines in your comment by pressing **Shift + Return**.
+インラインコメントを入力するには、まずコメントを入力したい箇所を範囲選択してください。
+<br>範囲選択すると、吹き出し型のアイコンが表示されます。このアイコンをクリックして、コメントを入力してください。
 
-**Tip**: When you click on a comment card, your cursor will automatically be set to the beginning the highlighted zone on the score. And when your cursor is in a highlighted zone, the associated comment will be highlighted on the side of the screen.
+![インラインコメントの入力](/help/assets/img/editor-ja/inlineCommentAdd.gif)
 
-## How to remove inline comments?
+**Tip 1**：「**Shift + Return**」でコメントを改行することができます。
 
-You can remove inline comments by resolving them. Under every comment you will see a "**Resolve comment**" button:
+**Tip 2**： コメントカードをクリックすると、選択された範囲の始めに青いカーソルが自動的に移動します。楽譜上の選択範囲をクリックすると、関連するコメントカードが画面右に強調して表示されます。
 
-![Resolve an inline comment](/help/assets/img/editor/inlineCommentResolve.png)
+<br>
 
-## Want to add global comments instead?
+## インラインコメントの削除方法
 
-On **public scores**, you can give public comments on the scores instead of contextualized comments. If you own the score, open it by clicking on "*...*" next to a score [on the **My Library** page](/help/en/general/my-library.html), and choose "**View**".
+インラインコメントの削除は、コメントカードの「**コメントを削除**」をクリックして行ってください。
 
-If **you are a teacher and want to add global feedback** on a submission, on the review page of a student's work you have the possibility to give feedback. If you use an LMS like Google Classroom or Canvas, you can also add a comment in your LMS next to your student's submission.
+![インラインコメントの削除](/help/assets/img/editor-ja/inlineCommentResolve.png)
+
+<br>
+
+## スコア全体に関するコメント
+
+**公開スコア**では、楽譜・曲に対するコメントを残すことができます。 
+<br>自分のスコアの場合は、「**MYライブラリ**で「・・・」が縦に並んだアイコンをクリックして「**閲覧する**」を選択してください。
+
+教育版で使用している場合は、**提出された課題に関して全体的なフィードバックをコメントすることができます**。
+<br>課題の評価ページでコメントするか、Google ClassroomなどのLMSを使用している場合はLMS上でコメントすることができます。
