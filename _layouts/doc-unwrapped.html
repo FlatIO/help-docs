@@ -28,8 +28,8 @@ layout: default
   {% endif %}
   <a class="doc-more-help" href="/help/support">
     <img src="/help/assets/img/support-email.svg" alt="Contact us">
-    <div class="t">Can’t find your answer? Get in touch with our team — we're here to help. <strong>Contact us &rarr;</strong>
-    </div>
+    {%- if page.locale == 'ja' %}<div class="t">お探しの質問が見つかりませんか？ Flatチームに直接問い合わせてみましょう！ <br><strong>問い合わせる &rarr;</strong></div>
+    {%- else %}<div class="t">Can’t find your answer? Get in touch with our team — we're here to help. <strong>Contact us &rarr;</strong></div>{%- endif %}
   </a>
 </div>
 
