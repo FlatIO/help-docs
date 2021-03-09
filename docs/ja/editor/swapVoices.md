@@ -1,35 +1,40 @@
 ---
-title: Swap Voices
-description: Tool to swap the staff voices on the selected range
+title: 声部の交換
+description: 選択範囲の声部を交換する機能についてご紹介します。
 nav: editor
 pid: swapVoices
-permalink: en/music-notation-software/swap-voices.html
+permalink: ja/music-notation-software/swap-voices.html
 action.swapVoices: true
 ---
 
-## Summary
+## 概要
 
-| Available in toolbar | **All the toolbars** |
-| Toolbar icon | ![Swap Voices](https://prod.flat-cdn.com/img/icons/editorActions/swapVoices.svg){:.tb} |
+
+| アイコン | ![Swap Voices](https://prod.flat-cdn.com/img/icons/editorActions/swapVoices.svg){:.tb} |
 {:.feat}
 
-## Purpose
 
-You can use this tool when you want to change the stems directions of voice notes on the selected range. 
+この機能を利用すると、選択した範囲の音符の符尾（音符の棒）の向きを変えることができます。
 
-![Voices with wrong stem direction](/help/assets/img/editor/swapVoices-wrong.png)
+![符尾の向きが不自然なケース](/help/assets/img/editor-ja/swapVoices-wrong.png)
 
-The tool will actually change the voice assigned to the notes in the selected range. The notes of the upper voice will go on the lower voice, and the opposite for the notes of the lower voice. 
+<br>
 
-## How to use it
+声部交換の機能を利用すると、選択された範囲の声部1と声部2の音符が交換されます。
 
-You need to select the range of notes that you want to swap. 
-Then click on the voice button, and click on the button **Swap voices**. 
+<br>
 
-![Swap voices assigned to notes](/help/assets/img/editor/swapVoices-action.gif)
+## 使い方
 
-## Tuplets
+まずは、交換したい範囲を選択します。
+<br>次に編集画面左上の「**声部**」ボタンをクリックして、「**声部を交換**」を選択します。
 
-When there are tuplets in the selection, the tool will make sure to encompass all the notes of the tuplet. 
+![声部間の音符を交換](/help/assets/img/editor/swapVoices-action.gif)
+
+<br>
+
+## 連符
+
+選択範囲に連符が含まれる場合、連符の全ての音符が選択範囲に含まれます。
 
 ![Swap voices on tuplets](/help/assets/img/editor/swapVoices-tuplet.gif)
