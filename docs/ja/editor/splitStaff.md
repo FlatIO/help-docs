@@ -36,7 +36,7 @@ action.splitStaff: true
 まず、分割したい譜表にカーソルを合わせます。
 <br>編集画面左上の「**声部**」ボタンをクリックして「**譜表を分割**」を選択します。
 
-![譜表を分割ボタン]](/help/assets/img/editor/splitStaff-button.png)
+![譜表を分割ボタン]](/help/assets/img/editor-ja/splitStaff-button.png)
 
 <br>
 分割方法にはいくつかのオプションがあります。
