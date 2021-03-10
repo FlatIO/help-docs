@@ -19,11 +19,11 @@ This assignment feature is also a fantastic way to onboard your students on Flat
 
 ## Creating an assignment
 
-To create a Google Classroom using Flat, open your class, then go to the "**Assignments** tab:
+To create a Google Classroom assignment using Flat, open your class, then go to the "**Assignments** tab:
 
 ![Class tab: Assignments](/help/assets/img/edu/class-tab-assignments.png)
 
-Click on the "**New Assignment**" button to get started and create your first assignment.
+Click on the "**+ Create**", and pick the activity you want to create to get started and create your first assignment.
 
 ![New assignment](/help/assets/img/edu/class-new-assignment-btn.png)
 

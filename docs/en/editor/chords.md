@@ -33,7 +33,7 @@ To add chord grids to your document, [you can enable the grids](/help/en/music-n
 
 ## Symbol notation
 
-If you want to use the triangle and the minus sign, instead of the `m` for minor chords, and `maj` for major 7th chords; you can specify it on the **layout options**. 
+If you want to use the triangle and the minus sign, instead of the `m` for minor chords, and `maj` for major 7th chords; you can specify it on the **layout options**.
 
 ![Enabling Chord Symbols](/help/assets/img/editor/chordSymbol.gif)
 
@@ -43,3 +43,7 @@ If you want to use the triangle and the minus sign, instead of the `m` for minor
 | Go to the previous chord | <span class="kb-container"><span class="kb">⇠</span></span> |
 | Exit the Chords mode | <span class="kb-container"><span class="kb">Esc</span></span> |
 {:.feat}
+
+## Chords playback
+
+To playback the written chords, you will need to use [slash notations](/help/en/music-notation-software/slash.html) instead of classic notes.
