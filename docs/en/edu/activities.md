@@ -16,7 +16,7 @@ You can open all your existing assignments and create new ones by opening the "*
 
 ## Creating a new assignment
 
-Click on the "**New Assignment**" button to get started and create your first assignment.
+Click on the "**+ Create**" button to access a variety of activities. This help page focuses on classic assignments, but feel free to visit the dedicated pages for [Worksheets](/help/en/education/worksheet.html) and [Performance assignments](/help/en/education/performance-assignments.html)
 
 ![New assignment](/help/assets/img/edu/class-new-assignment-btn.png)
 
@@ -49,7 +49,7 @@ Each of your students will get a copy of one of your scores to start from. You c
 
 Once your students are done, they can send their work in 1-click from the editor.
 
-You can get more information regarding the template assignment on [this page](/help/en/education/templates.html). 
+You can get more information regarding the template assignment on [this page](/help/en/education/templates.html).
 
 #### Shared writing
 
