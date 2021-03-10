@@ -20,10 +20,10 @@ action.switchEnharmonic: true
 <br>例えばドとシ♯は、名前は異なりますが同じ音を指します。ご希望の表示になるように、異名同音切り替えボタンで調整してください。
 <br>「音符」ツールバーにあるアイコンをクリックするだけで切り替えることが出来ます。
 
-![異名同音切り替え](/help/assets/img/editor/enharmonicSwitch-toolbar.png)
+![異名同音切り替え](/help/assets/img/editor-ja/enharmonicSwitch-toolbar.png)
 
 <br>
 
 下の画像のように、TAB譜では2つの音は同じ弦・フレット上に表示されます。
 
-![切り替え前後](/help/assets/img/editor/enharmonicSwitch-beforeAfter.png)
+![切り替え前後](/help/assets/img/editor-ja/enharmonicSwitch-beforeAfter.png)

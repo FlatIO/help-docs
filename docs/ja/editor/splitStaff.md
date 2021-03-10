@@ -27,7 +27,7 @@ action.splitStaff: true
 小節内に和音が含まれる場合、和音は半分ずつ各譜表に分割されます。
 <br>奇数の音符数で構成される和音の場合は、中間の音符が両方の譜表に表示されます。
 
-![和音を分割]](/help/assets/img/editor-ja/splitStaff-chords.png)
+![和音を分割](/help/assets/img/editor-ja/splitStaff-chords.png)
 
 <br>
 
@@ -36,7 +36,7 @@ action.splitStaff: true
 まず、分割したい譜表にカーソルを合わせます。
 <br>編集画面左上の「**声部**」ボタンをクリックして「**譜表を分割**」を選択します。
 
-![譜表を分割ボタン]](/help/assets/img/editor-ja/splitStaff-button.png)
+![譜表を分割ボタン](/help/assets/img/editor-ja/splitStaff-button.png)
 
 <br>
 分割方法にはいくつかのオプションがあります。
