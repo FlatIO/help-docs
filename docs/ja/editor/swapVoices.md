@@ -29,7 +29,7 @@ action.swapVoices: true
 まずは、交換したい範囲を選択します。
 <br>次に編集画面左上の「**声部**」ボタンをクリックして、「**声部を交換**」を選択します。
 
-![声部間の音符を交換](/help/assets/img/editor/swapVoices-action.gif)
+![声部間の音符を交換](/help/assets/img/editor-ja/swapVoices-action.gif)
 
 <br>
 
@@ -37,4 +37,4 @@ action.swapVoices: true
 
 選択範囲に連符が含まれる場合、連符の全ての音符が選択範囲に含まれます。
 
-![Swap voices on tuplets](/help/assets/img/editor/swapVoices-tuplet.gif)
+![Swap voices on tuplets](/help/assets/img/editor-ja/swapVoices-tuplet.gif)
