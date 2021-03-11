@@ -1,29 +1,28 @@
 ---
-title: Hide instruments where they are not playing
+title: 演奏されない楽器を非表示にする
 nav: editor
 pid: hide-non-playing-instruments
-permalink: en/music-notation-software/hide-non-playing-instruments.html
+permalink: ja/music-notation-software/hide-non-playing-instruments.html
 
 action.setHideEmptyPartsPolicy: true
 ---
 
-When you have a score with several instruments, sometimes you might want to hide instruments on systems where they are 
-not playing. This can be a way to save vertical space, and make the score look tidier. 
+複数の楽器を利用する楽譜は、各段では演奏されない楽器を非表示にすることで楽譜が読みやすくなります。
+<br>他にも、縦のスペースを省略し楽譜をよりまとまりのある表示にする効果もあります。
 
-To do so, **open the Layout Settings, next to the print button**.
-Go to the section **Hide non-playing instruments**. 
+この機能を利用するには、印刷ボタンの隣にある「**レイアウト設定**」をクリックしてください。
+<br>クリックすると「**レイアウトとスタイル**」ページが開きます。このページに「**演奏されない楽器を非表示にする**」設定があります。
 
-![Hiding non playing instrumetns after the first system](/help/assets/img/editor/example-hide-non-playing-instruments.gif)
+![演奏されない楽器を非表示にする設定](/help/assets/img/editor/example-hide-non-playing-instruments.gif)
 
-Here you can decide to hide instruments, either after the first system, or on all systems. 
+非表示の方法は以下のオプションから設定できます。
 
-![Available policies](/help/assets/img/editor/hide-non-playing-instruments-policies.png)
+![非表示設定オプション]](/help/assets/img/editor-ja/hide-non-playing-instruments-policies.png)
 
-We designed this feature to make it easy to insert notes on empty systems: 
-- When a system doesn't hold any notes for any instruments, we will display all the 
-instruments. We will only hide instruments if at least another instrument is holding content. 
-- Likewise, we will not hide an instrument on a system where it was previously displayed: removing the last note 
-on a system will not cause the instrument to be hidden. You will need to reload the page for it to be hidden. 
+この機能はWe designed this feature to make it easy to insert notes on empty systems: 
+- その段においてどの楽器にも音符が入力されていない場合は、全ての楽器が表示されます。少なくとも1つの楽器において音符が入力されている場合のみ、他の演奏しない楽器が非表示になります。
 
-Despite this, we recommend to only enable this option when you are done writing notes, as it can make it harder if you 
-add notes for instruments on systems where they are hidden. 
+- 入力された音符を削除して、その段に音符が無い状態にしても自動的には非表示になりません。非表示にするには、音符を削除した後にページを再読み込みしてください。
+
+
+演奏されない楽器が非表示になるため、楽譜の編集中は「**全表示**」に設定することをお勧めします。
