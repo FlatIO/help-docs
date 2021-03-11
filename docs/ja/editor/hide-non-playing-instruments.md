@@ -17,9 +17,9 @@ action.setHideEmptyPartsPolicy: true
 
 非表示の方法は以下のオプションから設定できます。
 
-![非表示設定オプション]](/help/assets/img/editor-ja/hide-non-playing-instruments-policies.png)
+![非表示設定オプション](/help/assets/img/editor-ja/hide-non-playing-instruments-policies.png)
 
-この機能はWe designed this feature to make it easy to insert notes on empty systems: 
+
 - その段においてどの楽器にも音符が入力されていない場合は、全ての楽器が表示されます。少なくとも1つの楽器において音符が入力されている場合のみ、他の演奏しない楽器が非表示になります。
 
 - 入力された音符を削除して、その段に音符が無い状態にしても自動的には非表示になりません。非表示にするには、音符を削除した後にページを再読み込みしてください。
