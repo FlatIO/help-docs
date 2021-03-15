@@ -1,6 +1,7 @@
 ---
 title: パフォーマンス機能
 description: パフォーマンス機能を利用すると、生徒がプラットフォーム上で簡単に歌声や演奏を録音・提出することが出来ます。このページで使い方を確認しましょう。
+nav: edu
 pid: performance-assignments
 permalink: ja/education/performance-assignments.html
 ---
