@@ -53,7 +53,7 @@ Choose "**External Tool**":
 
 ![External tool](/help/assets/img/edu/schoology-materials-ext-tool.png)
 
-As **Tool provider**, choose "Flat", then add at least a title for your new assignment. Don't add any URL, Consumer Key or Shared secret here. You can use options like Grading and individual assignments if you want. Press "**Submit"** to create your assignment in Canvas.
+As **Tool provider**, choose "Flat", then add at least a title for your new assignment. Don't add any URL, Consumer Key or Shared secret here (don't click on any "Custom" links, otherwise Schoology will not let you submit the form). You can use options like Grading and individual assignments if you want. Press "**Submit"** to create your assignment in Schoology.
 
 ![Add external tool](/help/assets/img/edu/schoology-add-ext-tool.png)
 
